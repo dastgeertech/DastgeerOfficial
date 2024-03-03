@@ -1,0 +1,359 @@
+{
+  "8081916712820606499": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "15015689266894652992": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "14994850008970758848": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "4466008647347868880": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "4768846407049648506": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "18421280252715459404": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "9945748523991261518": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "4096568109376601896": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "14938815859831474318": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "462133145252458035": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "16376360277630494370": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "10263385780066905683": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "2769946590124711699": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "8679556239478057198": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "7022340052701823074": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "11869964119326833547": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  },
+  "276602279538316310": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "."
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{projectRoot}\\coverage\\dastgeertech"
+      ]
+    }
+  }
+}

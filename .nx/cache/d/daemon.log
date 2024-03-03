@@ -1,0 +1,1257 @@
+[NX Daemon Server] - 2024-03-02T19:22:21.358Z - Started listening on: \\.\pipe\nx\C:\Users\raida\AppData\Local\Temp\e2dbc25431dd78c3bbfb\d.sock
+[NX Daemon Server] - 2024-03-02T19:22:21.360Z - [WATCHER]: Subscribed to changes within: d:\dastgeertech-official\dastgeertech (native)
+[NX Daemon Server] - 2024-03-02T19:22:21.361Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T19:22:21.362Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T19:22:21.362Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T19:22:21.364Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T19:22:21.366Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T19:22:21.366Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T19:22:21.367Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T19:22:21.635Z - Time taken for 'hash changed files from watcher' 0.8938999772071838ms
+[NX Daemon Server] - 2024-03-02T19:22:23.495Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T19:22:23.497Z - Time taken for 'total for creating and serializing project graph' 2130.45870000124ms
+[NX Daemon Server] - 2024-03-02T19:22:23.497Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T19:22:23.498Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2131. Response time: 3.
+[NX Daemon Server] - 2024-03-02T19:22:23.504Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-02T19:22:23.505Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-02T19:22:23.505Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-03-02T19:22:23.506Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T19:27:41.124Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T19:27:41.124Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T19:27:41.125Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T19:27:41.128Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T19:27:41.128Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T19:27:41.130Z - Time taken for 'total for creating and serializing project graph' 0.2605000138282776ms
+[NX Daemon Server] - 2024-03-02T19:27:41.132Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T19:27:41.132Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2024-03-02T19:27:41.231Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-03-02T19:27:41.232Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-03-02T19:27:41.232Z - Handled HASH_TASKS. Handling time: 20. Response time: 1.
+[NX Daemon Server] - 2024-03-02T19:27:45.797Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T19:27:45.800Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T19:27:45.801Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T19:27:45.804Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T19:27:45.804Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T19:27:45.806Z - Time taken for 'total for creating and serializing project graph' 0.25050002336502075ms
+[NX Daemon Server] - 2024-03-02T19:27:45.806Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T19:27:45.806Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T19:27:57.171Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T19:28:06.640Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T19:28:10.062Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T19:37:26.960Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T19:51:25.977Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-03-02T19:51:25.977Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T19:51:26.097Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T19:51:26.097Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-03-02T19:51:26.097Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T19:51:26.222Z - Time taken for 'hash changed files from watcher' 5.277600049972534ms
+[NX Daemon Server] - 2024-03-02T19:51:26.438Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T19:51:32.942Z - [WATCHER]: src/app/nx-welcome.component.ts was deleted
+[NX Daemon Server] - 2024-03-02T19:51:32.942Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T19:51:33.142Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T19:51:33.142Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T19:51:33.142Z - [REQUEST]: src/app/nx-welcome.component.ts
+[NX Daemon Server] - 2024-03-02T19:51:33.220Z - Time taken for 'hash changed files from watcher' 0.10289996862411499ms
+[NX Daemon Server] - 2024-03-02T19:51:33.584Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T19:52:05.076Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-03-02T19:52:05.077Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T19:52:05.483Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T19:52:05.483Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-03-02T19:52:05.483Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T19:52:05.575Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T19:52:05.575Z - Time taken for 'hash changed files from watcher' 0.2966000437736511ms
+[NX Daemon Server] - 2024-03-02T20:00:54.605Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:00:54.606Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:00:54.607Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:00:54.609Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:00:54.610Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:00:54.611Z - Time taken for 'total for creating and serializing project graph' 0.20730000734329224ms
+[NX Daemon Server] - 2024-03-02T20:00:54.611Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:00:54.611Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-03-02T20:00:57.750Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:01.146Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:01.147Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:01.148Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:01.150Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:01:01.150Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:01:01.152Z - Time taken for 'total for creating and serializing project graph' 0.12950003147125244ms
+[NX Daemon Server] - 2024-03-02T20:01:01.153Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:01:01.153Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-03-02T20:01:01.837Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:05.298Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:05.299Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:05.299Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:05.303Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:01:05.303Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:01:05.305Z - Time taken for 'total for creating and serializing project graph' 0.2966000437736511ms
+[NX Daemon Server] - 2024-03-02T20:01:05.305Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:01:05.305Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:01:05.992Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:24.616Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:24.616Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:24.617Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:24.619Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:01:24.619Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:01:24.620Z - Time taken for 'total for creating and serializing project graph' 0.1251000165939331ms
+[NX Daemon Server] - 2024-03-02T20:01:24.621Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:01:24.621Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:01:25.240Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:37.334Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:37.335Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:37.335Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:37.338Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:01:37.338Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:01:37.340Z - Time taken for 'total for creating and serializing project graph' 0.13559997081756592ms
+[NX Daemon Server] - 2024-03-02T20:01:37.340Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:01:37.340Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:01:38.037Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:38.094Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:01:38.096Z - [WATCHER]: 3 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-02T20:01:38.207Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:01:38.207Z - [REQUEST]: src/app/layout/main-layout/main-layout.component.ts,src/app/layout/main-layout/main-layout.component.html,src/app/layout/main-layout/main-layout.component.css,nx.json
+[NX Daemon Server] - 2024-03-02T20:01:38.207Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:01:38.284Z - Time taken for 'hash changed files from watcher' 3.578399956226349ms
+[NX Daemon Server] - 2024-03-02T20:01:39.116Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:39.117Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:39.117Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:39.117Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:01:39.118Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:01:39.119Z - Time taken for 'total for creating and serializing project graph' 0.14420002698898315ms
+[NX Daemon Server] - 2024-03-02T20:01:39.119Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:01:39.119Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-03-02T20:01:39.124Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-02T20:01:39.124Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-02T20:01:39.124Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-03-02T20:01:39.124Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:45.610Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:45.610Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:45.611Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:45.613Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:01:45.613Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:01:45.615Z - Time taken for 'total for creating and serializing project graph' 0.12440001964569092ms
+[NX Daemon Server] - 2024-03-02T20:01:45.615Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:01:45.615Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:01:46.262Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:49.692Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:49.693Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:49.694Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:49.696Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:01:49.696Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:01:49.698Z - Time taken for 'total for creating and serializing project graph' 0.1624000072479248ms
+[NX Daemon Server] - 2024-03-02T20:01:49.698Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:01:49.698Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:01:50.333Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:54.763Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:54.763Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:01:54.764Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:01:54.766Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:01:54.766Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:01:54.768Z - Time taken for 'total for creating and serializing project graph' 0.13740003108978271ms
+[NX Daemon Server] - 2024-03-02T20:01:54.768Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:01:54.768Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:01:55.568Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:02:05.571Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:02:05.571Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:02:05.572Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:02:05.574Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:02:05.574Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:02:05.576Z - Time taken for 'total for creating and serializing project graph' 0.16519999504089355ms
+[NX Daemon Server] - 2024-03-02T20:02:05.576Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:02:05.576Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:02:06.311Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:02:15.247Z - [WATCHER]: src/app/layout/main-layout was deleted
+[NX Daemon Server] - 2024-03-02T20:02:15.247Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:02:15.355Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:02:15.355Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:02:15.355Z - [REQUEST]: src/app/layout/main-layout
+[NX Daemon Server] - 2024-03-02T20:02:15.405Z - Time taken for 'hash changed files from watcher' 0.1086999773979187ms
+[NX Daemon Server] - 2024-03-02T20:02:23.581Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:02:23.581Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:02:23.582Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:02:23.584Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:02:23.585Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:02:23.586Z - Time taken for 'total for creating and serializing project graph' 0.15940004587173462ms
+[NX Daemon Server] - 2024-03-02T20:02:23.586Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:02:23.586Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-03-02T20:02:24.242Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:02:24.289Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:02:24.290Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-02T20:02:24.400Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:02:24.400Z - [REQUEST]: src/app/layout/header/header.component.html,src/app/layout/header/header.component.ts,src/app/layout/header/header.component.scss
+[NX Daemon Server] - 2024-03-02T20:02:24.401Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:02:24.444Z - Error detected when creating a project graph: Failed to process project dependencies with "nx/js/dependencies-and-lockfile".
+"Unable to load d:\\dastgeertech-official\\dastgeertech\\src\\app\\layout\\main-layout\\main-layout.component.ts: The system cannot find the path specified. (os error 3)"
+[NX Daemon Server] - 2024-03-02T20:02:24.445Z - Time taken for 'hash changed files from watcher' 0.26670002937316895ms
+[NX Daemon Server] - 2024-03-02T20:02:27.893Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:02:27.894Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-02T20:02:27.894Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-02T20:02:27.897Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:02:27.897Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project dependencies with "nx/js/dependencies-and-lockfile".
+"Unable to load d:\\dastgeertech-official\\dastgeertech\\src\\app\\layout\\main-layout\\main-layout.component.ts: The system cannot find the path specified. (os error 3)"
+Error: Failed to process project dependencies with "nx/js/dependencies-and-lockfile".
+"Unable to load d:\\dastgeertech-official\\dastgeertech\\src\\app\\layout\\main-layout\\main-layout.component.ts: The system cannot find the path specified. (os error 3)"
+    at buildExplicitTypeScriptDependencies (d:\dastgeertech-official\dastgeertech\node_modules\nx\src\plugins\js\project-graph\build-dependencies\explicit-project-dependencies.js:61:21)
+    at buildExplicitDependencies (d:\dastgeertech-official\dastgeertech\node_modules\nx\src\plugins\js\project-graph\build-dependencies\build-dependencies.js:19:120)
+    at Object.createDependencies (d:\dastgeertech-official\dastgeertech\node_modules\nx\src\plugins\js\index.js:70:92)
+    at d:\dastgeertech-official\dastgeertech\node_modules\nx\src\project-graph\build-project-graph.js:191:47
+    at Array.map (<anonymous>)
+    at updateProjectGraphWithPlugins (d:\dastgeertech-official\dastgeertech\node_modules\nx\src\project-graph\build-project-graph.js:186:47)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async buildProjectGraphUsingContext (d:\dastgeertech-official\dastgeertech\node_modules\nx\src\project-graph\build-project-graph.js:104:15)
+    at async buildProjectGraphUsingProjectFileMap (d:\dastgeertech-official\dastgeertech\node_modules\nx\src\project-graph\build-project-graph.js:68:24)
+    at async createAndSerializeProjectGraph (d:\dastgeertech-official\dastgeertech\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:175:55) {
+  code: 'GenericFailure'
+}
+[NX Daemon Server] - 2024-03-02T20:02:27.949Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-02T20:02:31.822Z - Started listening on: \\.\pipe\nx\C:\Users\raida\AppData\Local\Temp\e2dbc25431dd78c3bbfb\d.sock
+[NX Daemon Server] - 2024-03-02T20:02:31.826Z - [WATCHER]: Subscribed to changes within: D:\dastgeertech-official\dastgeertech (native)
+[NX Daemon Server] - 2024-03-02T20:02:31.832Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:02:31.835Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:02:31.835Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:02:31.838Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:02:31.840Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:02:31.840Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:02:31.840Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:02:32.941Z - Time taken for 'hash changed files from watcher' 0.41509997844696045ms
+[NX Daemon Server] - 2024-03-02T20:02:36.412Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:02:36.416Z - Time taken for 'total for creating and serializing project graph' 4573.449600040913ms
+[NX Daemon Server] - 2024-03-02T20:02:36.416Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:02:36.416Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 4574. Response time: 4.
+[NX Daemon Server] - 2024-03-02T20:02:37.183Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:02:40.521Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:02:40.521Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:02:40.523Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:02:40.525Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:02:40.526Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:02:40.528Z - Time taken for 'total for creating and serializing project graph' 0.17009997367858887ms
+[NX Daemon Server] - 2024-03-02T20:02:40.528Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:02:40.528Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:02:41.272Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:02:54.823Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:02:54.823Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:02:54.824Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:02:54.827Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:02:54.827Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:02:54.829Z - Time taken for 'total for creating and serializing project graph' 0.17960000038146973ms
+[NX Daemon Server] - 2024-03-02T20:02:54.829Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:02:54.829Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:02:55.490Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:02:55.543Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:02:55.545Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-02T20:02:55.654Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:02:55.654Z - [REQUEST]: src/app/layout/main-layout/main-layout.component.ts,src/app/layout/main-layout/main-layout.component.html,src/app/layout/main-layout/main-layout.component.scss
+[NX Daemon Server] - 2024-03-02T20:02:55.654Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:02:55.746Z - Time taken for 'hash changed files from watcher' 0.9934999942779541ms
+[NX Daemon Server] - 2024-03-02T20:03:03.926Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:03:03.926Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:03:03.928Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:03:03.930Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:03:03.930Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:03:03.932Z - Time taken for 'total for creating and serializing project graph' 0.1466999650001526ms
+[NX Daemon Server] - 2024-03-02T20:03:03.932Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:03:03.933Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-03-02T20:03:04.561Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:03:07.905Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:03:07.906Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:03:07.907Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:03:07.909Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:03:07.909Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:03:07.911Z - Time taken for 'total for creating and serializing project graph' 0.14020001888275146ms
+[NX Daemon Server] - 2024-03-02T20:03:07.911Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:03:07.911Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:03:08.512Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:03:13.298Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:03:13.298Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:03:13.299Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:03:13.301Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:03:13.301Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:03:13.305Z - Time taken for 'total for creating and serializing project graph' 0.12799996137619019ms
+[NX Daemon Server] - 2024-03-02T20:03:13.305Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:03:13.305Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2024-03-02T20:03:13.990Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:03:14.039Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:03:14.041Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-02T20:03:14.150Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:03:14.150Z - [REQUEST]: src/app/layout/footer/footer.component.scss,src/app/layout/footer/footer.component.html,src/app/layout/footer/footer.component.ts
+[NX Daemon Server] - 2024-03-02T20:03:14.150Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:03:14.238Z - Time taken for 'hash changed files from watcher' 0.4620000123977661ms
+[NX Daemon Server] - 2024-03-02T20:04:22.727Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:04:22.729Z - [WATCHER]: src/app/layout/main-layout/main-layout.component.html was modified
+[NX Daemon Server] - 2024-03-02T20:04:22.931Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:04:22.931Z - [REQUEST]: src/app/layout/main-layout/main-layout.component.html
+[NX Daemon Server] - 2024-03-02T20:04:22.931Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:04:23.009Z - Time taken for 'hash changed files from watcher' 0.8167000412940979ms
+[NX Daemon Server] - 2024-03-02T20:04:30.548Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:04:30.550Z - [WATCHER]: src/app/layout/main-layout/main-layout.component.html was modified
+[NX Daemon Server] - 2024-03-02T20:04:30.956Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:04:30.956Z - [REQUEST]: src/app/layout/main-layout/main-layout.component.html
+[NX Daemon Server] - 2024-03-02T20:04:30.956Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:04:31.020Z - Time taken for 'hash changed files from watcher' 0.677299976348877ms
+[NX Daemon Server] - 2024-03-02T20:05:19.373Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:05:19.374Z - [WATCHER]: src/app/layout/main-layout/main-layout.component.ts was modified
+[NX Daemon Server] - 2024-03-02T20:05:20.190Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:05:20.191Z - [REQUEST]: src/app/layout/main-layout/main-layout.component.ts
+[NX Daemon Server] - 2024-03-02T20:05:20.191Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:05:20.277Z - Time taken for 'hash changed files from watcher' 0.8571000099182129ms
+[NX Daemon Server] - 2024-03-02T20:05:55.170Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:05:55.171Z - [WATCHER]: src/app/layout/main-layout/main-layout.component.html was modified
+[NX Daemon Server] - 2024-03-02T20:05:56.773Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:05:56.773Z - [REQUEST]: src/app/layout/main-layout/main-layout.component.html
+[NX Daemon Server] - 2024-03-02T20:05:56.773Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:05:56.847Z - Time taken for 'hash changed files from watcher' 0.31269997358322144ms
+[NX Daemon Server] - 2024-03-02T20:06:10.706Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-03-02T20:06:10.706Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:06:12.917Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:06:13.907Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:06:13.907Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-03-02T20:06:13.907Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:06:13.999Z - Time taken for 'hash changed files from watcher' 0.21130001544952393ms
+[NX Daemon Server] - 2024-03-02T20:06:59.140Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:06:59.141Z - [WATCHER]: src/app/layout/main-layout/main-layout.component.ts was modified
+[NX Daemon Server] - 2024-03-02T20:06:59.530Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:07:03.607Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-03-02T20:07:03.608Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:07:03.972Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:07:05.543Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:07:05.543Z - [REQUEST]: src/app/layout/main-layout/main-layout.component.ts,src/app/app.component.ts
+[NX Daemon Server] - 2024-03-02T20:07:05.543Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:07:05.631Z - Time taken for 'hash changed files from watcher' 0.36400002241134644ms
+[NX Daemon Server] - 2024-03-02T20:08:40.178Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:08:40.180Z - [WATCHER]: src/app/app.routes.ts was modified
+[NX Daemon Server] - 2024-03-02T20:08:40.647Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:08:46.583Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:08:46.583Z - [REQUEST]: src/app/app.routes.ts
+[NX Daemon Server] - 2024-03-02T20:08:46.583Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:08:46.664Z - Time taken for 'hash changed files from watcher' 0.3558000326156616ms
+[NX Daemon Server] - 2024-03-02T20:09:53.670Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:09:53.671Z - [WATCHER]: src/app/app.routes.ts was modified
+[NX Daemon Server] - 2024-03-02T20:09:54.022Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:10:00.084Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:10:00.084Z - [REQUEST]: src/app/app.routes.ts
+[NX Daemon Server] - 2024-03-02T20:10:00.084Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:10:00.156Z - Time taken for 'hash changed files from watcher' 0.2854999899864197ms
+[NX Daemon Server] - 2024-03-02T20:16:19.412Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:19.413Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:19.413Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:19.414Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:16:19.415Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:16:19.417Z - Time taken for 'total for creating and serializing project graph' 0.19049996137619019ms
+[NX Daemon Server] - 2024-03-02T20:16:19.417Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:16:19.417Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:16:20.060Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:23.458Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:23.458Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:23.460Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:23.462Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:16:23.462Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:16:23.465Z - Time taken for 'total for creating and serializing project graph' 0.1535000205039978ms
+[NX Daemon Server] - 2024-03-02T20:16:23.465Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:16:23.465Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-03-02T20:16:24.208Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:27.633Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:27.633Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:27.635Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:27.637Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:16:27.637Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:16:27.640Z - Time taken for 'total for creating and serializing project graph' 0.12559998035430908ms
+[NX Daemon Server] - 2024-03-02T20:16:27.640Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:16:27.640Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-03-02T20:16:28.257Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:31.631Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:31.631Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:31.632Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:31.634Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:16:31.634Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:16:31.637Z - Time taken for 'total for creating and serializing project graph' 0.1467999815940857ms
+[NX Daemon Server] - 2024-03-02T20:16:31.637Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:16:31.637Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-03-02T20:16:32.287Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:53.800Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:53.801Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:53.802Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:53.804Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:16:53.804Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:16:53.806Z - Time taken for 'total for creating and serializing project graph' 0.1281999945640564ms
+[NX Daemon Server] - 2024-03-02T20:16:53.806Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:16:53.806Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:16:54.428Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:58.828Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:58.828Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:16:58.829Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:16:58.831Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:16:58.831Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:16:58.833Z - Time taken for 'total for creating and serializing project graph' 0.13580000400543213ms
+[NX Daemon Server] - 2024-03-02T20:16:58.834Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:16:58.834Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-03-02T20:16:59.472Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:17:22.271Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:17:22.271Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:17:22.272Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:17:22.274Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:17:22.274Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:17:22.276Z - Time taken for 'total for creating and serializing project graph' 0.3474999666213989ms
+[NX Daemon Server] - 2024-03-02T20:17:22.277Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:17:22.277Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-03-02T20:17:22.889Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:17:22.945Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:17:22.946Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-02T20:17:23.054Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:17:23.054Z - [REQUEST]: src/app/shared/components/feather-icon/feather-icon.component.scss,src/app/shared/components/feather-icon/feather-icon.component.ts,src/app/shared/components/feather-icon/feather-icon.component.html
+[NX Daemon Server] - 2024-03-02T20:17:23.054Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:17:23.138Z - Time taken for 'hash changed files from watcher' 0.8396999835968018ms
+[NX Daemon Server] - 2024-03-02T20:17:38.189Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:17:38.189Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:17:38.190Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:17:38.193Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:17:38.193Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:17:38.195Z - Time taken for 'total for creating and serializing project graph' 0.48729997873306274ms
+[NX Daemon Server] - 2024-03-02T20:17:38.195Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:17:38.195Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:17:38.805Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:17:42.399Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:17:42.399Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:17:42.400Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:17:42.402Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:17:42.402Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:17:42.406Z - Time taken for 'total for creating and serializing project graph' 0.12740004062652588ms
+[NX Daemon Server] - 2024-03-02T20:17:42.406Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:17:42.406Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2024-03-02T20:17:43.055Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:17:50.106Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:17:50.106Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:17:50.107Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:17:50.110Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:17:50.110Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:17:50.113Z - Time taken for 'total for creating and serializing project graph' 0.256600022315979ms
+[NX Daemon Server] - 2024-03-02T20:17:50.113Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:17:50.114Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2024-03-02T20:17:50.771Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:17:54.133Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:17:54.134Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:17:54.135Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:17:54.136Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:17:54.137Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:17:54.139Z - Time taken for 'total for creating and serializing project graph' 0.12560003995895386ms
+[NX Daemon Server] - 2024-03-02T20:17:54.139Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:17:54.139Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:17:54.875Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:18:15.398Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:18:15.399Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:18:15.400Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:18:15.403Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:18:15.403Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:18:15.405Z - Time taken for 'total for creating and serializing project graph' 0.13770002126693726ms
+[NX Daemon Server] - 2024-03-02T20:18:15.405Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:18:15.406Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-03-02T20:18:16.048Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:18:16.098Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:18:16.098Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-02T20:18:16.210Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:18:16.210Z - [REQUEST]: src/app/shared/components/breadcrumb/breadcrumb.component.scss,src/app/shared/components/breadcrumb/breadcrumb.component.html,src/app/shared/components/breadcrumb/breadcrumb.component.ts
+[NX Daemon Server] - 2024-03-02T20:18:16.210Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:18:16.297Z - Time taken for 'hash changed files from watcher' 1.4196999669075012ms
+[NX Daemon Server] - 2024-03-02T20:18:56.335Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:18:56.336Z - [WATCHER]: src/app/shared/UnsubscribeOnDestroyAdapter.ts was created or restored
+[NX Daemon Server] - 2024-03-02T20:18:56.440Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:18:56.440Z - [REQUEST]: src/app/shared/UnsubscribeOnDestroyAdapter.ts
+[NX Daemon Server] - 2024-03-02T20:18:56.440Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:18:56.525Z - Time taken for 'hash changed files from watcher' 0.18970000743865967ms
+[NX Daemon Server] - 2024-03-02T20:19:36.585Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:19:36.586Z - [WATCHER]: src/app/shared/sub-sink.ts was created or restored
+[NX Daemon Server] - 2024-03-02T20:19:36.695Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:19:36.696Z - [REQUEST]: src/app/shared/sub-sink.ts
+[NX Daemon Server] - 2024-03-02T20:19:36.696Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:19:36.762Z - Time taken for 'hash changed files from watcher' 0.25589996576309204ms
+[NX Daemon Server] - 2024-03-02T20:19:47.907Z - [WATCHER]: src/app/shared/sub-sink.ts was modified
+[NX Daemon Server] - 2024-03-02T20:19:47.907Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:19:48.108Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:19:48.108Z - [REQUEST]: src/app/shared/sub-sink.ts
+[NX Daemon Server] - 2024-03-02T20:19:48.108Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:19:48.173Z - Time taken for 'hash changed files from watcher' 0.20570003986358643ms
+[NX Daemon Server] - 2024-03-02T20:20:21.818Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:20:21.819Z - [WATCHER]: src/app/shared/index.ts was created or restored
+[NX Daemon Server] - 2024-03-02T20:20:21.929Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:20:21.929Z - [REQUEST]: src/app/shared/index.ts
+[NX Daemon Server] - 2024-03-02T20:20:21.929Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:20:22.009Z - Time taken for 'hash changed files from watcher' 0.2797999978065491ms
+[NX Daemon Server] - 2024-03-02T20:20:34.220Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:20:34.221Z - [WATCHER]: src/app/shared/index.ts was modified
+[NX Daemon Server] - 2024-03-02T20:20:34.422Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:20:34.423Z - [REQUEST]: src/app/shared/index.ts
+[NX Daemon Server] - 2024-03-02T20:20:34.423Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:20:34.504Z - Time taken for 'hash changed files from watcher' 0.8521000146865845ms
+[NX Daemon Server] - 2024-03-02T20:24:08.026Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:24:08.028Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-03-02T20:24:08.428Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:24:08.428Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-03-02T20:24:08.428Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:24:08.511Z - Time taken for 'hash changed files from watcher' 0.3921999931335449ms
+[NX Daemon Server] - 2024-03-02T20:24:08.915Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:24:08.918Z - [WATCHER]: Stopping the watcher for D:\dastgeertech-official\dastgeertech (sources)
+[NX Daemon Server] - 2024-03-02T20:24:08.918Z - [WATCHER]: Stopping the watcher for D:\dastgeertech-official\dastgeertech (outputs)
+[NX Daemon Server] - 2024-03-02T20:24:08.918Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-03-02T20:24:09.441Z - Started listening on: \\.\pipe\nx\C:\Users\raida\AppData\Local\Temp\e2dbc25431dd78c3bbfb\d.sock
+[NX Daemon Server] - 2024-03-02T20:24:09.445Z - [WATCHER]: Subscribed to changes within: d:\dastgeertech-official\dastgeertech (native)
+[NX Daemon Server] - 2024-03-02T20:24:09.447Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:24:09.448Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:24:09.448Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-02T20:24:09.450Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-02T20:24:09.450Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:24:09.450Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:24:09.451Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:24:16.367Z - Time taken for 'hash changed files from watcher' 0.11779999732971191ms
+[NX Daemon Server] - 2024-03-02T20:24:17.820Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-02T20:24:17.821Z - Time taken for 'total for creating and serializing project graph' 8369.934799969196ms
+[NX Daemon Server] - 2024-03-02T20:24:17.822Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-02T20:24:17.822Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 8370. Response time: 2.
+[NX Daemon Server] - 2024-03-02T20:24:17.827Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-02T20:24:17.828Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-02T20:24:17.828Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-03-02T20:24:17.828Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-02T20:25:30.142Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:25:30.143Z - [WATCHER]: src/app/shared/components/feather-icon/feather-icon.component.ts was modified
+[NX Daemon Server] - 2024-03-02T20:25:30.253Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:25:30.253Z - [REQUEST]: src/app/shared/components/feather-icon/feather-icon.component.ts
+[NX Daemon Server] - 2024-03-02T20:25:30.253Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:25:31.031Z - Time taken for 'hash changed files from watcher' 0.835599958896637ms
+[NX Daemon Server] - 2024-03-02T20:25:48.419Z - [WATCHER]: src/app/shared/components/feather-icon/feather-icon.component.ts was modified
+[NX Daemon Server] - 2024-03-02T20:25:48.419Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:25:48.619Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:25:48.620Z - [REQUEST]: src/app/shared/components/feather-icon/feather-icon.component.ts
+[NX Daemon Server] - 2024-03-02T20:25:48.620Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:25:49.433Z - Time taken for 'hash changed files from watcher' 0.4047999978065491ms
+[NX Daemon Server] - 2024-03-02T20:25:49.550Z - [WATCHER]: src/app/shared/components/feather-icon/feather-icon.component.ts was modified
+[NX Daemon Server] - 2024-03-02T20:25:49.550Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:25:49.955Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:25:49.955Z - [REQUEST]: src/app/shared/components/feather-icon/feather-icon.component.ts
+[NX Daemon Server] - 2024-03-02T20:25:49.955Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:25:50.760Z - Time taken for 'hash changed files from watcher' 0.2524000406265259ms
+[NX Daemon Server] - 2024-03-02T20:25:54.374Z - [WATCHER]: src/app/shared/UnsubscribeOnDestroyAdapter.ts was modified
+[NX Daemon Server] - 2024-03-02T20:25:54.375Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:25:55.185Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:25:55.185Z - [REQUEST]: src/app/shared/UnsubscribeOnDestroyAdapter.ts
+[NX Daemon Server] - 2024-03-02T20:25:55.185Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:25:55.976Z - Time taken for 'hash changed files from watcher' 0.8763999938964844ms
+[NX Daemon Server] - 2024-03-02T20:26:02.243Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-02T20:26:02.244Z - [WATCHER]: src/app/shared/components/feather-icon/feather-icon.component.html was modified
+[NX Daemon Server] - 2024-03-02T20:26:03.850Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-02T20:26:03.851Z - [REQUEST]: src/app/shared/components/feather-icon/feather-icon.component.html
+[NX Daemon Server] - 2024-03-02T20:26:03.851Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-02T20:26:04.654Z - Time taken for 'hash changed files from watcher' 0.3393999934196472ms
+[NX Daemon Server] - 2024-03-02T23:54:31.306Z - [WATCHER]: Stopping the watcher for d:\dastgeertech-official\dastgeertech (sources)
+[NX Daemon Server] - 2024-03-02T23:54:31.307Z - [WATCHER]: Stopping the watcher for d:\dastgeertech-official\dastgeertech (outputs)
+[NX Daemon Server] - 2024-03-02T23:54:31.307Z - Server stopped because: "10800000ms of inactivity"
+[NX Daemon Server] - 2024-03-03T11:33:45.537Z - Started listening on: \\.\pipe\nx\C:\Users\raida\AppData\Local\Temp\e2dbc25431dd78c3bbfb\d.sock
+[NX Daemon Server] - 2024-03-03T11:33:45.548Z - [WATCHER]: Subscribed to changes within: d:\dastgeertech-official\dastgeertech (native)
+[NX Daemon Server] - 2024-03-03T11:33:45.550Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:33:45.551Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:33:45.552Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:33:45.555Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T11:33:45.614Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T11:33:45.614Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T11:33:45.615Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T11:34:09.531Z - Time taken for 'hash changed files from watcher' 57.5003000497818ms
+[NX Daemon Server] - 2024-03-03T11:34:19.363Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T11:34:19.368Z - Time taken for 'total for creating and serializing project graph' 33807.812399983406ms
+[NX Daemon Server] - 2024-03-03T11:34:19.369Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T11:34:19.369Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 33808. Response time: 6.
+[NX Daemon Server] - 2024-03-03T11:34:19.396Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-03T11:34:19.397Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-03T11:34:19.397Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-03-03T11:34:19.402Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:00.416Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:43:00.417Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:00.417Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:43:00.422Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T11:43:00.422Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T11:43:00.426Z - Time taken for 'total for creating and serializing project graph' 0.48819994926452637ms
+[NX Daemon Server] - 2024-03-03T11:43:00.427Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T11:43:00.427Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 5.
+[NX Daemon Server] - 2024-03-03T11:43:04.308Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:09.685Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:43:09.686Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:09.689Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:43:09.695Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T11:43:09.695Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T11:43:09.700Z - Time taken for 'total for creating and serializing project graph' 0.5443999767303467ms
+[NX Daemon Server] - 2024-03-03T11:43:09.700Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T11:43:09.700Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 5.
+[NX Daemon Server] - 2024-03-03T11:43:11.094Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:22.143Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:43:22.144Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:22.146Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:43:22.151Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T11:43:22.151Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T11:43:22.154Z - Time taken for 'total for creating and serializing project graph' 0.37119996547698975ms
+[NX Daemon Server] - 2024-03-03T11:43:22.155Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T11:43:22.155Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2024-03-03T11:43:23.603Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:28.996Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:43:28.997Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:28.999Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:43:29.003Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T11:43:29.004Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T11:43:29.006Z - Time taken for 'total for creating and serializing project graph' 0.2943999767303467ms
+[NX Daemon Server] - 2024-03-03T11:43:29.007Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T11:43:29.007Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
+[NX Daemon Server] - 2024-03-03T11:43:30.622Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:35.404Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:43:35.405Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:35.407Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T11:43:35.412Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T11:43:35.413Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T11:43:35.416Z - Time taken for 'total for creating and serializing project graph' 0.3199000358581543ms
+[NX Daemon Server] - 2024-03-03T11:43:35.416Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T11:43:35.416Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
+[NX Daemon Server] - 2024-03-03T11:43:36.855Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T11:43:36.906Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T11:43:36.907Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T11:43:37.013Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T11:43:37.013Z - [REQUEST]: src/app/pages/maintenance/maintenance.component.html,src/app/pages/maintenance/maintenance.component.ts,src/app/pages/maintenance/maintenance.component.scss
+[NX Daemon Server] - 2024-03-03T11:43:37.013Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T11:43:38.538Z - Time taken for 'hash changed files from watcher' 2.662200093269348ms
+[NX Daemon Server] - 2024-03-03T12:14:22.282Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T12:14:22.290Z - [WATCHER]: src/app/app.routes.ts was modified
+[NX Daemon Server] - 2024-03-03T12:14:22.498Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T12:14:22.499Z - [REQUEST]: src/app/app.routes.ts
+[NX Daemon Server] - 2024-03-03T12:14:22.499Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T12:14:25.696Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T12:14:25.697Z - Time taken for 'hash changed files from watcher' 1.2973999977111816ms
+[NX Daemon Server] - 2024-03-03T12:20:05.556Z - [WATCHER]: src/app/layout/header/header.component.ts was modified
+[NX Daemon Server] - 2024-03-03T12:20:05.558Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T12:20:05.969Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T12:20:05.969Z - [REQUEST]: src/app/layout/header/header.component.ts
+[NX Daemon Server] - 2024-03-03T12:20:05.970Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T12:20:08.533Z - Time taken for 'hash changed files from watcher' 0.9638999700546265ms
+[NX Daemon Server] - 2024-03-03T12:21:13.880Z - [WATCHER]: src/app/pages/maintenance/maintenance.component.html was modified
+[NX Daemon Server] - 2024-03-03T12:21:13.882Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T12:21:14.329Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T12:21:14.687Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T12:21:14.688Z - [REQUEST]: src/app/pages/maintenance/maintenance.component.html
+[NX Daemon Server] - 2024-03-03T12:21:14.688Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T12:21:17.188Z - Time taken for 'hash changed files from watcher' 0.5782999992370605ms
+[NX Daemon Server] - 2024-03-03T12:25:03.473Z - [WATCHER]: src/index.html was modified
+[NX Daemon Server] - 2024-03-03T12:25:03.474Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T12:25:05.080Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T12:25:05.081Z - [REQUEST]: src/index.html
+[NX Daemon Server] - 2024-03-03T12:25:05.081Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T12:25:07.099Z - Time taken for 'hash changed files from watcher' 1.0568000078201294ms
+[NX Daemon Server] - 2024-03-03T12:31:43.202Z - [WATCHER]: project.json was modified
+[NX Daemon Server] - 2024-03-03T12:31:43.203Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T12:31:44.219Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T12:31:44.221Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T12:31:44.222Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T12:31:44.225Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T12:31:44.247Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T12:31:44.247Z - [REQUEST]: project.json
+[NX Daemon Server] - 2024-03-03T12:31:44.248Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T12:31:46.026Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T12:31:46.031Z - Time taken for 'total for creating and serializing project graph' 1801.4090000391006ms
+[NX Daemon Server] - 2024-03-03T12:31:46.031Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T12:31:46.032Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1802. Response time: 6.
+[NX Daemon Server] - 2024-03-03T12:31:46.042Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-03T12:31:46.042Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-03T12:31:46.042Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-03-03T12:31:46.043Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T13:35:09.346Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:35:09.350Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-03-03T13:35:09.453Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:35:09.453Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-03-03T13:35:09.453Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:35:12.671Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T13:35:12.671Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-03T13:35:12.672Z - Time taken for 'hash changed files from watcher' 0.541100025177002ms
+[NX Daemon Server] - 2024-03-03T13:35:12.672Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T13:35:12.675Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T13:35:12.676Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T13:35:12.680Z - Time taken for 'total for creating and serializing project graph' 0.5031000375747681ms
+[NX Daemon Server] - 2024-03-03T13:35:12.680Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T13:35:12.680Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 4.
+[NX Daemon Server] - 2024-03-03T13:35:12.697Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-03T13:35:12.697Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-03T13:35:12.697Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-03-03T13:35:12.698Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T13:35:13.566Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:35:13.567Z - [WATCHER]: Stopping the watcher for d:\dastgeertech-official\dastgeertech (sources)
+[NX Daemon Server] - 2024-03-03T13:35:13.567Z - [WATCHER]: Stopping the watcher for d:\dastgeertech-official\dastgeertech (outputs)
+[NX Daemon Server] - 2024-03-03T13:35:13.567Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-03-03T13:39:17.759Z - Started listening on: \\.\pipe\nx\C:\Users\raida\AppData\Local\Temp\e2dbc25431dd78c3bbfb\d.sock
+[NX Daemon Server] - 2024-03-03T13:39:17.765Z - [WATCHER]: Subscribed to changes within: D:\dastgeertech-official\dastgeertech (native)
+[NX Daemon Server] - 2024-03-03T13:39:17.770Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T13:39:17.775Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T13:39:17.775Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T13:39:17.779Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T13:39:17.780Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:39:17.781Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:39:17.781Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:39:20.869Z - Time taken for 'hash changed files from watcher' 0.22400009632110596ms
+[NX Daemon Server] - 2024-03-03T13:39:24.605Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T13:39:24.611Z - Time taken for 'total for creating and serializing project graph' 6825.968600034714ms
+[NX Daemon Server] - 2024-03-03T13:39:24.611Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T13:39:24.612Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 6826. Response time: 7.
+[NX Daemon Server] - 2024-03-03T13:39:25.557Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-03-03T13:39:25.558Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-03-03T13:39:25.558Z - Handled HASH_TASKS. Handling time: 57. Response time: 1.
+[NX Daemon Server] - 2024-03-03T13:39:34.553Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-03T13:39:34.555Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T13:39:34.556Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-03T13:39:34.562Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T13:39:34.563Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T13:39:34.567Z - Time taken for 'total for creating and serializing project graph' 0.7738000154495239ms
+[NX Daemon Server] - 2024-03-03T13:39:34.568Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T13:39:34.568Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 5.
+[NX Daemon Server] - 2024-03-03T13:40:01.352Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:40:20.363Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:40:20.500Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:40:27.282Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:46:01.354Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:46:01.374Z - [WATCHER]: project.json was modified
+[NX Daemon Server] - 2024-03-03T13:46:01.499Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:46:01.499Z - [REQUEST]: project.json
+[NX Daemon Server] - 2024-03-03T13:46:01.499Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:46:03.280Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-03T13:46:03.282Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-03-03T13:46:03.286Z - Time taken for 'hash changed files from watcher' 20.554700016975403ms
+[NX Daemon Server] - 2024-03-03T13:46:03.286Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-03T13:46:03.289Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T13:46:03.290Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T13:46:03.295Z - Time taken for 'total for creating and serializing project graph' 0.5950000286102295ms
+[NX Daemon Server] - 2024-03-03T13:46:03.296Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T13:46:03.297Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 7.
+[NX Daemon Server] - 2024-03-03T13:46:03.311Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-03T13:46:03.312Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-03T13:46:03.312Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-03-03T13:46:03.313Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-03T13:46:16.034Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:47:12.745Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:47:12.752Z - [WATCHER]: src/styles.scss was modified
+[NX Daemon Server] - 2024-03-03T13:47:12.855Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:47:12.855Z - [REQUEST]: src/styles.scss
+[NX Daemon Server] - 2024-03-03T13:47:12.855Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:47:14.947Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:47:14.948Z - Time taken for 'hash changed files from watcher' 0.47390007972717285ms
+[NX Daemon Server] - 2024-03-03T13:48:23.603Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:23.607Z - [WATCHER]: 9 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:23.654Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:23.659Z - [WATCHER]: 7 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:23.708Z - [WATCHER]: 11 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:23.711Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:23.822Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:48:23.822Z - [REQUEST]: src/assets/images/favicon.png,src/assets/images/avtar/11.jpg,src/assets/images/giftools.gif,src/assets/images/user.jpg,src/assets/images/avtar/3.jpg,src/assets/images/avtar/16.jpg,src/assets/images/smiley.png,src/assets/images/avtar/4.jpg,src/assets/images/avtar/7.jpg,src/assets/images/big-lightgallry/012.jpg,src/assets/images/big-lightgallry/011.jpg,src/assets/images/banner/1.jpg,src/assets/images/big-lightgallry/01.jpg,src/assets/images/banner/2.jpg,src/assets/images/banner/3.jpg,src/assets/images/big-lightgallry/010.jpg,src/assets/images/big-lightgallry/015.jpg,src/assets/images/big-lightgallry/014.jpg,src/assets/images/big-lightgallry/02.jpg,src/assets/images/big-lightgallry/03.jpg,src/assets/images/big-lightgallry/013.jpg,src/assets/images/big-lightgallry/06.jpg,src/assets/images/big-lightgallry/07.jpg,src/assets/images/big-lightgallry/016.jpg,src/assets/images/big-lightgallry/08.jpg,src/assets/images/big-lightgallry/04.jpg,src/assets/images/big-lightgallry/05.jpg
+[NX Daemon Server] - 2024-03-03T13:48:23.822Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:48:28.428Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.428Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.429Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.430Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.431Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.431Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.441Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.443Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.444Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.444Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.445Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.459Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.459Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.459Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.462Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.462Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.464Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.465Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.466Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.467Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.467Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.468Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.468Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.468Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.472Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.473Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.473Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.474Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.478Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.478Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.478Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.479Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.479Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.479Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.480Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.480Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.481Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.481Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.481Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.482Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.482Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.482Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.483Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.483Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.485Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.485Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.486Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.486Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.487Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.487Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.487Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.487Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.488Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.488Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.488Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.489Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.489Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.489Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.489Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.490Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.490Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.491Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.491Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.492Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.492Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.492Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.492Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.493Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.493Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.493Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.494Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.494Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.495Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.495Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.495Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.495Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.495Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:28.500Z - [WATCHER]: 4 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.506Z - [WATCHER]: 23 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.513Z - [WATCHER]: 8 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.516Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.522Z - [WATCHER]: 9 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.525Z - [WATCHER]: 11 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.529Z - [WATCHER]: 10 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.534Z - [WATCHER]: 1 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.545Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.553Z - [WATCHER]: 22 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.557Z - [WATCHER]: 7 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.560Z - [WATCHER]: 6 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.562Z - [WATCHER]: 7 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.568Z - [WATCHER]: 10 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.572Z - [WATCHER]: 8 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.581Z - [WATCHER]: 6 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.585Z - [WATCHER]: 11 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.589Z - [WATCHER]: 9 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.592Z - [WATCHER]: 8 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.606Z - [WATCHER]: 4 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.622Z - [WATCHER]: 10 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.625Z - [WATCHER]: 6 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.634Z - [WATCHER]: 9 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.640Z - [WATCHER]: 5 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.644Z - [WATCHER]: 7 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.651Z - [WATCHER]: 9 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.662Z - [WATCHER]: 8 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.667Z - [WATCHER]: src/assets/images/notification/2.jpg was modified
+[NX Daemon Server] - 2024-03-03T13:48:28.669Z - [WATCHER]: 9 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.672Z - [WATCHER]: 9 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.676Z - [WATCHER]: 9 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.680Z - [WATCHER]: 7 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.687Z - [WATCHER]: 8 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.690Z - [WATCHER]: 8 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.693Z - [WATCHER]: 10 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.701Z - [WATCHER]: 10 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.705Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.708Z - [WATCHER]: 6 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.711Z - [WATCHER]: 9 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.716Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.719Z - [WATCHER]: 13 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.723Z - [WATCHER]: 33 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.735Z - [WATCHER]: 16 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.741Z - [WATCHER]: 5 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.790Z - [WATCHER]: 7 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.793Z - [WATCHER]: 1 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.797Z - [WATCHER]: 6 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.819Z - [WATCHER]: 3 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.823Z - [WATCHER]: 9 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.828Z - [WATCHER]: 7 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.833Z - [WATCHER]: 5 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.836Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.839Z - [WATCHER]: 4 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.843Z - [WATCHER]: 8 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.864Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.884Z - [WATCHER]: 12 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.901Z - [WATCHER]: 13 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.906Z - [WATCHER]: 9 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.909Z - [WATCHER]: 7 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.913Z - [WATCHER]: 6 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.916Z - [WATCHER]: 16 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.921Z - [WATCHER]: 2 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.924Z - [WATCHER]: 6 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.927Z - [WATCHER]: 8 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.931Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.934Z - [WATCHER]: 5 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.940Z - [WATCHER]: 8 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.944Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.960Z - [WATCHER]: 4 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.963Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.967Z - [WATCHER]: 3 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:28.983Z - [WATCHER]: 5 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:29.002Z - [WATCHER]: 4 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:29.004Z - [WATCHER]: 5 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:29.011Z - [WATCHER]: 5 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:29.080Z - [WATCHER]: 10 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:29.089Z - [WATCHER]: 7 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:29.093Z - [WATCHER]: 10 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:29.101Z - [WATCHER]: 7 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:29.105Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:29.128Z - Time taken for 'hash changed files from watcher' 109.59909999370575ms
+[NX Daemon Server] - 2024-03-03T13:48:32.649Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:48:32.649Z - [REQUEST]: src/assets/images/big-masonry/11.jpg,src/assets/images/big-lightgallry/09.jpg,src/assets/images/big-masonry/10.jpg,src/assets/images/big-masonry/1.jpg,src/assets/images/big-lightgallry/08.jpg,src/assets/images/blog/4.jpg,src/assets/images/big-masonry/8.jpg,src/assets/images/big-masonry/7.jpg,src/assets/images/big-masonry/13.jpg,src/assets/images/big-masonry/2.jpg,src/assets/images/big-masonry/15.jpg,src/assets/images/blog/14.png,src/assets/images/big-masonry/14.jpg,src/assets/images/blog/9.jpg,src/assets/images/big-masonry/5.jpg,src/assets/images/blog/blog-3.jpg,src/assets/images/blog/blog-5.jpg,src/assets/images/blog/blog-2.jpg,src/assets/images/blog/blog-single.jpg,src/assets/images/big-masonry/4.jpg,src/assets/images/big-masonry/3.jpg,src/assets/images/big-masonry/6.jpg,src/assets/images/big-masonry/9.jpg,src/assets/images/blog/12.png,src/assets/images/big-masonry/12.jpg,src/assets/images/blog/blog-6.jpg,src/assets/images/blog/blog.jpg,src/assets/images/blog/comment.jpg,src/assets/images/dashboard/folder1.png,src/assets/images/dashboard/cartoon.svg,src/assets/images/dashboard/purchase.png,src/assets/images/dashboard/profile.png,src/assets/images/blog/img.png,src/assets/images/dashboard/papernote.jpg,src/assets/images/dashboard/folder.png,src/assets/images/checkout/paypal.png,src/assets/images/dashboard/user/4.jpg,src/assets/images/dashboard/user/13.jpg,src/assets/images/dashboard/user/5.jpg,src/assets/images/dashboard/user/12.jpg,src/assets/images/dashboard/user/11.jpg,src/assets/images/dashboard/user/2.jpg,src/assets/images/dashboard/user/10.jpg,src/assets/images/dashboard/user/1.jpg,src/assets/images/dashboard/widget-bg.png,src/assets/images/dashboard/user/3.jpg,src/assets/images/dashboard-2/1.png,src/assets/images/dashboard/user/8.jpg,src/assets/images/dashboard-2/2.png,src/assets/images/dashboard-2/bg.jpg,src/assets/images/dashboard-2/balance-bg.png,src/assets/images/dashboard-2/3.png,src/assets/images/dashboard/user/7.jpg,src/assets/images/dashboard/user/6.jpg,src/assets/images/dashboard/user/9.jpg,src/assets/images/dashboard-2/widget-img.png,src/assets/images/dashboard-2/radial-image.png,src/assets/images/dashboard-2/product-4.png,src/assets/images/dashboard-2/product-3.png,src/assets/images/dashboard-2/discover.png,src/assets/images/dashboard-2/product-5.png,src/assets/images/dashboard-2/product-1.png,src/assets/images/dashboard-2/offer-shoes-3.png,src/assets/images/dashboard-2/product-6.png,src/assets/images/dashboard-2/mobile.gif,src/assets/images/dashboard-2/confetti-left.gif,src/assets/images/dashboard-2/category/4.png,src/assets/images/dashboard-2/category/6.png,src/assets/images/dashboard-2/category/2.png,src/assets/images/dashboard-2/category/5.png,src/assets/images/dashboard-2/category/7.png,src/assets/images/dashboard-2/category/3.png,src/assets/images/dashboard-2/category/1.png,src/assets/images/dashboard-2/order/1.png,src/assets/images/dashboard-2/order/3.png,src/assets/images/dashboard-2/order/2.png,src/assets/images/dashboard-2/order/4.png,src/assets/images/dashboard-2/order/sub-product/3.png,src/assets/images/dashboard-2/order/sub-product/6.png,src/assets/images/dashboard-2/order/sub-product/8.png,src/assets/images/dashboard-2/order/sub-product/7.png,src/assets/images/dashboard-2/order/sub-product/5.png,src/assets/images/dashboard-2/order/sub-product/1.png,src/assets/images/dashboard-2/order/sub-product/2.png,src/assets/images/dashboard-2/order/sub-product/4.png,src/assets/images/dashboard-2/order/sub-product/10.png,src/assets/images/dashboard-2/order/5.png,src/assets/images/dashboard-2/user/2.png,src/assets/images/dashboard-2/user/1.png,src/assets/images/dashboard-3/bg.jpg,src/assets/images/dashboard-3/widget.svg,src/assets/images/dashboard-3/course/2.svg,src/assets/images/dashboard-3/course/3.svg,src/assets/images/dashboard-2/product/3.png,src/assets/images/dashboard-2/user/4.png,src/assets/images/dashboard-2/product/5.jpg,src/assets/images/dashboard-2/user/3.png,src/assets/images/dashboard-3/course/1.svg,src/assets/images/dashboard-2/product/2.png,src/assets/images/dashboard-2/user/5.png,src/assets/images/dashboard-3/better.png,src/assets/images/dashboard-2/product/3.jpg,src/assets/images/dashboard-2/product/1.jpg,src/assets/images/dashboard-3/hand.svg,src/assets/images/dashboard-3/round.png,src/assets/images/dashboard-2/product/2.jpg,src/assets/images/dashboard-2/product/4.jpg,src/assets/images/dashboard-2/product/1.png,src/assets/images/dashboard-2/order/sub-product/9.png,src/assets/images/dashboard-3/course/back-arrow/3.png,src/assets/images/dashboard-3/lessons/3.png,src/assets/images/dashboard-3/course/back-arrow/1.png,src/assets/images/dashboard-3/course/4.svg,src/assets/images/dashboard-3/course/back-arrow/2.png,src/assets/images/dashboard-3/lessons/1.png,src/assets/images/dashboard-3/lessons/2.png,src/assets/images/dashboard-4/bg-balance.png,src/assets/images/dashboard-4/user.png,src/assets/images/dashboard-5/mobile-img.png,src/assets/images/dashboard-4/crypto.png,src/assets/images/dashboard-5/follower.png,src/assets/images/dashboard-4/portfolio-bg.png,src/assets/images/dashboard-5/profile.png,src/assets/images/dashboard-5/profile-bg.png,src/assets/images/dashboard-5/social/4.png,src/assets/images/dashboard-5/social/2.png,src/assets/images/dashboard-5/social/1.png,src/assets/images/dashboard-5/wave.png,src/assets/images/dashboard-5/social/3.png,src/assets/images/ecommerce/06.jpg,src/assets/images/ecommerce/07.jpg,src/assets/images/ecommerce/card.png,src/assets/images/ecommerce/04.jpg,src/assets/images/ecommerce/05.jpg,src/assets/images/ecommerce/01.jpg,src/assets/images/ecommerce/08.jpg,src/assets/images/ecommerce/02.jpg,src/assets/images/ecommerce/banner.jpg,src/assets/images/ecommerce/03.jpg,src/assets/images/ecommerce/product-table-4.png,src/assets/images/ecommerce/product-table-1.png,src/assets/images/ecommerce/product-table-5.png,src/assets/images/ecommerce/paypal.png,src/assets/images/ecommerce/product-table-6.png,src/assets/images/ecommerce/mastercard.png,src/assets/images/ecommerce/product-table-3.png,src/assets/images/ecommerce/product-table-2.png,src/assets/images/email/1.jpg,src/assets/images/ecommerce/visa.png,src/assets/images/ecommerce/product-table-7.png,src/assets/images/email/2.jpg,src/assets/images/email/3.jpg,src/assets/images/email-template/1.jpg,src/assets/images/email-template/5.png,src/assets/images/email-template/1.png,src/assets/images/email-template/11.jpg,src/assets/images/email-template/4.png,src/assets/images/email-template/7.png,src/assets/images/email-template/10.jpg,src/assets/images/email-template/12.jpg,src/assets/images/email-template/3.png,src/assets/images/email-template/7.jpg,src/assets/images/email-template/2.png,src/assets/images/email-template/6.png,src/assets/images/faq/1.jpg,src/assets/images/email-template/8.jpg,src/assets/images/email-template/delivery.png,src/assets/images/email-template/8.png,src/assets/images/email-template/banner-2.jpg,src/assets/images/email-template/delivery-2.png,src/assets/images/email-template/banner.jpg,src/assets/images/email-template/cosmetic.jpg,src/assets/images/email-template/slider.jpg,src/assets/images/faq/learning-1.png,src/assets/images/faq/4.jpg,src/assets/images/job-search/3.jpg,src/assets/images/faq/2.jpg,src/assets/images/job-search/1.jpg,src/assets/images/job-search/2.jpg,src/assets/images/faq/3.jpg,src/assets/images/job-search/4.jpg,src/assets/images/job-search/5.jpg,src/assets/images/job-search/6.jpg,src/assets/images/layout-images/barc.jpg,src/assets/images/knowledgebase/bg_1.jpg,src/assets/images/layout-images/london.jpg,src/assets/images/layout-images/paris.jpg,src/assets/images/layout-images/romo.jpg,src/assets/images/layout-images/dubai.jpg,src/assets/images/layout-images/los.jpg,src/assets/images/layout-images/newyork.jpg,src/assets/images/layout-images/moscow.jpg,src/assets/images/layout-images/madrid.jpg,src/assets/images/layout-images/seoul.jpg,src/assets/images/layout-images/singapore.jpg,src/assets/images/lightgallry/01.jpg,src/assets/images/lightgallry/010.jpg,src/assets/images/lightgallry/012.jpg,src/assets/images/lightgallry/013.jpg,src/assets/images/lightgallry/011.jpg,src/assets/images/layout-images/tokyo.jpg,src/assets/images/lightgallry/014.jpg,src/assets/images/lightgallry/03.jpg,src/assets/images/lightgallry/015.jpg,src/assets/images/lightgallry/07.jpg,src/assets/images/lightgallry/06.jpg,src/assets/images/lightgallry/02.jpg,src/assets/images/lightgallry/05.jpg,src/assets/images/lightgallry/016.jpg,src/assets/images/lightgallry/04.jpg,src/assets/images/lightgallry/08.jpg,src/assets/images/lightgallry/09.jpg,src/assets/images/lightgallry/default-skin.svg,src/assets/images/lightgallry/default-skin.png,src/assets/images/login/1.jpg,src/assets/images/login/2.jpg,src/assets/images/login/login_bg.jpg,src/assets/images/logo/logo.png,src/assets/images/login/3.jpg,src/assets/images/login/icon.png,src/assets/images/logo/logo_dark.png,src/assets/images/logo/logo-icon.png,src/assets/images/masonry/14.jpg,src/assets/images/masonry/11.jpg,src/assets/images/masonry/3.jpg,src/assets/images/masonry/10.jpg,src/assets/images/masonry/13.jpg,src/assets/images/masonry/1.jpg,src/assets/images/masonry/15.jpg,src/assets/images/masonry/2.jpg,src/assets/images/masonry/12.jpg,src/assets/images/notification/2.jpg,src/assets/images/masonry/7.jpg,src/assets/images/masonry/9.jpg,src/assets/images/masonry/6.jpg,src/assets/images/masonry/4.jpg,src/assets/images/masonry/8.jpg,src/assets/images/masonry/5.jpg,src/assets/images/notification/1.jpg,src/assets/images/other-images/caller.jpg,src/assets/images/other-images/coming-soon-bg.jpg,src/assets/images/other-images/bg-profile.png,src/assets/images/other-images/boxbg.jpg,src/assets/images/other-images/calender-bg.png,src/assets/images/other-images/calender-widget.jpg,src/assets/images/other-images/img-cropper.jpg,src/assets/images/other-images/cart-img.jpg,src/assets/images/other-images/clock-face.png,src/assets/images/other-images/paypal.png,src/assets/images/other-images/maintenance-bg.jpg,src/assets/images/other-images/profile-style-img.png,src/assets/images/other-images/profile-style-img3.png,src/assets/images/other-images/mobile-clock-wallpaper.jpg,src/assets/images/other-images/sad.png,src/assets/images/other-images/receiver-img.jpg,src/assets/images/other-images/logo-login.png,src/assets/images/other-images/sidebar-bg.jpg,src/assets/images/product/1.png,src/assets/images/product/12.png,src/assets/images/product/15.png,src/assets/images/other-images/user-profile.png,src/assets/images/product/14.png,src/assets/images/product/13.png,src/assets/images/product/10.png,src/assets/images/other-images/wallpaper.jpg,src/assets/images/product/11.png,src/assets/images/slider/11.jpg,src/assets/images/slider/1.jpg,src/assets/images/slider/10.jpg,src/assets/images/slider/2.jpg,src/assets/images/product/4.png,src/assets/images/product/3.png,src/assets/images/product/2.png,src/assets/images/slider/7.jpg,src/assets/images/slider/3.jpg,src/assets/images/slider/4.jpg,src/assets/images/slider/5.jpg,src/assets/images/slider/9.jpg,src/assets/images/slider/6.jpg,src/assets/images/slider/8.jpg,src/assets/images/slider-auto-width/11.jpg,src/assets/images/social-app/post-1.png,src/assets/images/social-app/post-4.png,src/assets/images/social-app/post-3.png,src/assets/images/slider-auto-width/13.jpg,src/assets/images/social-app/post-2.png,src/assets/images/slider-auto-width/15.jpg,src/assets/images/slider-auto-width/12.jpg,src/assets/images/slider-auto-width/14.jpg,src/assets/images/social-app/timeline-2.png,src/assets/images/social-app/post-7.png,src/assets/images/social-app/timeline-4.png,src/assets/images/social-app/post-9.png,src/assets/images/social-app/social-image.png,src/assets/images/social-app/timeline-1.png,src/assets/images/social-app/timeline-3.png,src/assets/images/social-app/post-8.png,src/assets/images/social-app/post-5.png,src/assets/images/social-app/post-6.png,src/assets/images/svg-icon/1.svg,src/assets/images/svg-icon/5.svg,src/assets/images/user/10.jpg,src/assets/images/user/1.jpg,src/assets/images/svg-icon/6.svg,src/assets/images/svg-icon/4.svg,src/assets/images/svg-icon/2.svg,src/assets/images/svg-icon/3.svg,src/assets/images/user/11.png,src/assets/images/user/12.png,src/assets/images/user/4.jpg,src/assets/images/user/3.png,src/assets/images/user/2.jpg,src/assets/images/user/2.png,src/assets/images/user/16.png,src/assets/images/user/5.jpg,src/assets/images/user/7.jpg,src/assets/images/user/3.jpg,src/assets/images/user/6.jpg,src/assets/images/user/14.png,src/assets/images/user/user.png,src/assets/images/user-card/5.jpg,src/assets/images/user/9.jpg,src/assets/images/user/user-dp.png,src/assets/scss/app.scss,src/assets/images/user/8.jpg,src/assets/scss/responsive.scss,src/assets/scss/style.scss,src/assets/scss/color-4.scss,src/assets/scss/base/_reset.scss,src/assets/scss/color-1.scss,src/assets/scss/color-3.scss,src/assets/scss/color-5.scss,src/assets/scss/color-6.scss,src/assets/scss/color-2.scss,src/assets/scss/components/_card.scss,src/assets/scss/components/_breadcrumb.scss,src/assets/scss/components/_according.scss,src/assets/scss/components/_bookmark.scss,src/assets/scss/base/_typography.scss,src/assets/scss/components/_alert.scss,src/assets/scss/components/_avatars.scss,src/assets/scss/components/_builders.scss,src/assets/scss/components/_badge.scss,src/assets/scss/components/_buttons.scss,src/assets/scss/components/_datatable.scss,src/assets/scss/components/_form-builder.scss,src/assets/scss/components/_form-wizard.scss,src/assets/scss/components/_dropdown.scss,src/assets/scss/components/_icons.scss,src/assets/scss/components/_loader.scss,src/assets/scss/components/_form-input.scss,src/assets/scss/components/_color.scss,src/assets/scss/components/_popover.scss,src/assets/scss/components/_list.scss,src/assets/scss/components/_forms.scss,src/assets/scss/components/_form_builder-2.scss,src/assets/scss/components/_datepicker.scss,src/assets/scss/components/_tab.scss,src/assets/scss/layout/_header.scss,src/assets/scss/pages/custom.scss,src/assets/scss/pages/_dashboard_5.scss,src/assets/scss/layout/_rtl.scss,src/assets/scss/components/_typeahead-search.scss,src/assets/scss/layout/_sidebar.scss,src/assets/scss/layout/_select2.scss,src/assets/scss/pages/_chart.scss,src/assets/scss/pages/_dashboard_3.scss,src/assets/scss/pages/_checkout.scss,src/assets/scss/components/_scrollbar.scss,src/assets/scss/pages/_chat.scss,src/assets/scss/layout/_grid.scss,src/assets/scss/pages/_contacts.scss,src/assets/scss/pages/_bookmark-app.scss,src/assets/scss/components/_radio.scss,src/assets/scss/components/_ribbon.scss,src/assets/scss/components/_tree.scss,src/assets/scss/layout/_footer.scss,src/assets/scss/layout/_navs.scss,src/assets/scss/layout/_box-layout.scss,src/assets/scss/pages/_cart.scss,src/assets/scss/components/_print.scss,src/assets/scss/layout/_search.scss,src/assets/scss/pages/_comingsoon.scss,src/assets/scss/components/_tour.scss,src/assets/scss/pages/_dashboard_4.scss,src/assets/scss/components/_touchspin.scss,src/assets/scss/pages/_dashboard_2.scss,src/assets/scss/components/_switch.scss,src/assets/scss/components/_table.scss,src/assets/scss/pages/_blog.scss,src/assets/scss/pages/_email-application.scss,src/assets/scss/pages/_internationalization.scss,src/assets/scss/pages/_gallery.scss,src/assets/scss/pages/_errorpage.scss,src/assets/scss/pages/_knowledgebase.scss,src/assets/scss/pages/_job-search.scss,src/assets/scss/pages/_learning.scss,src/assets/scss/pages/_megaoption.scss,src/assets/scss/pages/_file.scss,src/assets/scss/pages/_login.scss,src/assets/scss/pages/_jsgrid.scss,src/assets/scss/pages/_language.scss,src/assets/scss/pages/_kanban.scss,src/assets/scss/pages/_faq.scss,src/assets/scss/pages/_dashboard_default.scss,src/assets/scss/pages/_ecommerce.scss,src/assets/scss/pages/_progress.scss,src/assets/scss/pages/_pricing.scss,src/assets/scss/pages/_order-history.scss,src/assets/scss/pages/_page.scss,src/assets/scss/pages/_projectlist.scss,src/assets/scss/themes/_custom.scss,src/assets/scss/pages/_social-app.scss,src/assets/scss/pages/_task.scss,src/assets/scss/pages/_timeline-v.scss,src/assets/scss/pages/_wishlist.scss,src/assets/scss/pages/_timeliny.scss,src/assets/scss/pages/_user-profile.scss,src/assets/scss/themes/_dark.scss,src/assets/scss/utils/_variables.scss,src/assets/scss/themes/_theme-customizer.scss,src/assets/scss/themes/_responsive.scss,src/assets/scss/vendors/animate.scss,src/assets/scss/themes/_update.scss,src/assets/scss/vendors/aos.scss,src/assets/scss/vendors/bootstrap.scss,src/assets/scss/vendors/calendar.scss,src/assets/scss/vendors/button-builder.scss,src/assets/scss/vendors/chartist.scss,src/assets/scss/vendors/feather-icon.scss,src/assets/scss/vendors/datatables.scss,src/assets/scss/vendors/dropzone.scss,src/assets/scss/vendors/date-picker.scss,src/assets/scss/vendors/datatable-extension.scss,src/assets/scss/vendors/date-time-picker.scss,src/assets/scss/vendors/daterange-picker.scss,src/assets/scss/vendors/echart.scss,src/assets/scss/vendors/image-cropper.scss,src/assets/scss/vendors/flag-icon.scss,src/assets/scss/vendors/icofont.scss,src/assets/scss/vendors/mapsjs-ui.scss,src/assets/scss/vendors/owlcarousel.scss,src/assets/scss/vendors/jkanban.scss,src/assets/scss/vendors/jsgrid.scss,src/assets/scss/vendors/prism.scss,src/assets/scss/vendors/page-builder.scss,src/assets/scss/vendors/rating.scss,src/assets/scss/vendors/photoswipe.scss,src/assets/scss/vendors/range-slider.scss,src/assets/scss/vendors/simple-mde.scss,src/assets/scss/vendors/scrollbar.scss,src/assets/scss/vendors/scrollable.scss,src/assets/scss/vendors/select2.scss,src/assets/scss/vendors/slick.scss,src/assets/scss/vendors/summernote.scss,src/assets/scss/vendors/svg-icon.scss,src/assets/scss/vendors/sticky.scss,src/assets/scss/vendors/todo.scss,src/assets/scss/vendors/vector-map.scss,src/assets/scss/vendors/whether-icon.scss,src/assets/scss/vendors/tour.scss,src/assets/scss/vendors/tree.scss,src/assets/scss/vendors/themify.scss,src/assets/scss/vendors/sweetalert2.scss,src/assets/scss/vendors/timepicker.scss,src/assets/scss/vendors/aos/_core.scss,src/assets/scss/vendors/aos/_animations.scss,src/assets/scss/vendors/aos/_easing.scss,src/assets/scss/vendors/animate/_animate.scss,src/assets/scss/vendors/bootstrap/_button-group.scss,src/assets/scss/vendors/bootstrap/_badge.scss,src/assets/scss/vendors/bootstrap/bootstrap-grid.scss,src/assets/scss/vendors/bootstrap/_card.scss,src/assets/scss/vendors/bootstrap/_breadcrumb.scss,src/assets/scss/vendors/bootstrap/bootstrap-utilities.scss,src/assets/scss/vendors/bootstrap/_accordion.scss,src/assets/scss/vendors/bootstrap/bootstrap-reboot.scss,src/assets/scss/vendors/bootstrap/bootstrap.scss,src/assets/scss/vendors/bootstrap/_alert.scss,src/assets/scss/vendors/bootstrap/_buttons.scss,src/assets/scss/vendors/bootstrap/_carousel.scss,src/assets/scss/vendors/bootstrap/_containers.scss,src/assets/scss/vendors/bootstrap/_modal.scss,src/assets/scss/vendors/bootstrap/_functions.scss,src/assets/scss/vendors/bootstrap/_navbar.scss,src/assets/scss/vendors/bootstrap/_forms.scss,src/assets/scss/vendors/bootstrap/_close.scss,src/assets/scss/vendors/bootstrap/_dropdown.scss,src/assets/scss/vendors/bootstrap/_grid.scss,src/assets/scss/vendors/bootstrap/_list-group.scss,src/assets/scss/vendors/bootstrap/_images.scss,src/assets/scss/vendors/bootstrap/_mixins.scss,src/assets/scss/vendors/bootstrap/_nav.scss,src/assets/scss/vendors/bootstrap/_helpers.scss,src/assets/scss/vendors/bootstrap/_popover.scss,src/assets/scss/vendors/bootstrap/_progress.scss,src/assets/scss/vendors/bootstrap/_root.scss,src/assets/scss/vendors/bootstrap/_pagination.scss,src/assets/scss/vendors/bootstrap/_spinners.scss,src/assets/scss/vendors/bootstrap/_tables.scss,src/assets/scss/vendors/bootstrap/_toasts.scss,src/assets/scss/vendors/bootstrap/_offcanvas.scss,src/assets/scss/vendors/bootstrap/_reboot.scss,src/assets/scss/vendors/bootstrap/forms/_form-check.scss,src/assets/scss/vendors/bootstrap/_utilities.scss,src/assets/scss/vendors/bootstrap/forms/_floating-labels.scss,src/assets/scss/vendors/bootstrap/_transitions.scss,src/assets/scss/vendors/bootstrap/_type.scss,src/assets/scss/vendors/bootstrap/_tooltip.scss,src/assets/scss/vendors/bootstrap/_variables.scss,src/assets/scss/vendors/bootstrap/forms/_form-text.scss,src/assets/scss/vendors/bootstrap/forms/_input-group.scss,src/assets/scss/vendors/bootstrap/forms/_form-range.scss,src/assets/scss/vendors/bootstrap/forms/_form-control.scss,src/assets/scss/vendors/bootstrap/forms/_form-select.scss,src/assets/scss/vendors/bootstrap/forms/_labels.scss,src/assets/scss/vendors/bootstrap/helpers/_visually-hidden.scss,src/assets/scss/vendors/bootstrap/helpers/_stretched-link.scss,src/assets/scss/vendors/bootstrap/mixins/_box-shadow.scss,src/assets/scss/vendors/bootstrap/mixins/_clearfix.scss,src/assets/scss/vendors/bootstrap/helpers/_ratio.scss,src/assets/scss/vendors/bootstrap/mixins/_caret.scss,src/assets/scss/vendors/bootstrap/helpers/_colored-links.scss,src/assets/scss/vendors/bootstrap/mixins/_border-radius.scss,src/assets/scss/vendors/bootstrap/helpers/_position.scss,src/assets/scss/vendors/bootstrap/helpers/_clearfix.scss,src/assets/scss/vendors/bootstrap/mixins/_color-scheme.scss,src/assets/scss/vendors/bootstrap/helpers/_text-truncation.scss,src/assets/scss/vendors/bootstrap/mixins/_buttons.scss,src/assets/scss/vendors/bootstrap/mixins/_breakpoints.scss,src/assets/scss/vendors/bootstrap/forms/_validation.scss,src/assets/scss/vendors/bootstrap/mixins/_alert.scss,src/assets/scss/vendors/bootstrap/mixins/_deprecate.scss,src/assets/scss/vendors/bootstrap/mixins/_container.scss,src/assets/scss/vendors/bootstrap/mixins/_forms.scss,src/assets/scss/vendors/bootstrap/mixins/_gradients.scss,src/assets/scss/vendors/bootstrap/mixins/_list-group.scss,src/assets/scss/vendors/bootstrap/mixins/_lists.scss,src/assets/scss/vendors/bootstrap/mixins/_grid.scss,src/assets/scss/vendors/bootstrap/mixins/_image.scss,src/assets/scss/vendors/bootstrap/mixins/_transition.scss,src/assets/scss/vendors/bootstrap/mixins/_pagination.scss,src/assets/scss/vendors/bootstrap/mixins/_visually-hidden.scss,src/assets/scss/vendors/bootstrap/mixins/_resize.scss,src/assets/scss/vendors/bootstrap/mixins/_utilities.scss,src/assets/scss/vendors/bootstrap/mixins/_reset-text.scss,src/assets/scss/vendors/bootstrap/mixins/_table-variants.scss,src/assets/scss/vendors/bootstrap/mixins/_text-truncate.scss,src/assets/scss/vendors/bootstrap/utilities/_api.scss,src/assets/scss/vendors/bootstrap/vendor/_rfs.scss,src/assets/scss/vendors/button-builder/_button-builder-colorpicker.scss,src/assets/scss/vendors/button-builder/_button-builder.scss,src/assets/scss/vendors/calendar/_default.scss,src/assets/scss/vendors/chartist/_chartist-settings.scss,src/assets/scss/vendors/chartist/_chartist.scss,src/assets/scss/vendors/data-table/_dataTables.bootstrap.scss,src/assets/scss/vendors/data-table/_dataTables.bootstrap4.scss,src/assets/scss/vendors/data-table/_jquery.dataTables.scss,src/assets/scss/vendors/datatable-extension/_autofill-datatable.scss,src/assets/scss/vendors/data-table/_dataTables.semanticui.scss,src/assets/scss/vendors/data-table/_dataTables.material.scss,src/assets/scss/vendors/data-table/_dataTables.jqueryui.scss,src/assets/scss/vendors/data-table/_dataTables.foundation.scss,src/assets/scss/vendors/data-table/_dataTables.uikit.scss,src/assets/scss/vendors/datatable-extension/_button.bootstrap4.scss,src/assets/scss/vendors/datatable-extension/_fixedHeader.dataTables.scss,src/assets/scss/vendors/datatable-extension/_keyTable.dataTables.scss,src/assets/scss/vendors/datatable-extension/_mixins.scss,src/assets/scss/vendors/datatable-extension/_common.scss,src/assets/scss/vendors/datatable-extension/_buttons.semanticui.scss,src/assets/scss/vendors/datatable-extension/_buttons.jqueryui.scss,src/assets/scss/vendors/datatable-extension/_buttons.dataTables.scss,src/assets/scss/vendors/datatable-extension/_fixedColumns.dataTables.scss,src/assets/scss/vendors/datatable-extension/_keytable.bootstrap4.scss,src/assets/scss/vendors/datatable-extension/_responsive.dataTables.scss,src/assets/scss/vendors/date-picker/_all-in-one.scss,src/assets/scss/vendors/datatable-extension/_rowReorder.dataTables.scss,src/assets/scss/vendors/datatable-extension/_select-datatable.scss,src/assets/scss/vendors/datatable-extension/_scroller.dataTables.scss,src/assets/scss/vendors/date-time-picker/_tempusdominus-bootstrap-4.scss,src/assets/scss/vendors/daterange-picker/_daterangepicker.scss,src/assets/scss/vendors/dropzone/_dropzone.scss,src/assets/scss/vendors/flag-icon/_flag-icon-base.scss,src/assets/scss/vendors/echart/_reset.scss,src/assets/scss/vendors/feather-icon/_feather-icon.scss,src/assets/scss/vendors/flag-icon/_flag-icon-list.scss,src/assets/scss/vendors/flag-icon/_flag-icon-more.scss,src/assets/scss/vendors/icoicon/_icons.scss,src/assets/scss/vendors/image-cropper/_cropper-main.scss,src/assets/scss/vendors/image-cropper/_cropper-custom.scss,src/assets/scss/vendors/jsgrid/_jsgrid.scss,src/assets/scss/vendors/owltheme/_autoheight.scss,src/assets/scss/vendors/jsgrid/_jsgrid-theme.scss,src/assets/scss/vendors/owltheme/_animate.scss,src/assets/scss/vendors/owltheme/_core.scss,src/assets/scss/vendors/owltheme/_theme.scss,src/assets/scss/vendors/owltheme/_theme.default.scss,src/assets/scss/vendors/page-builder/_page-builder.scss,src/assets/scss/vendors/owltheme/_lazyload.scss,src/assets/scss/vendors/photoswipe/_photoswipe.scss,src/assets/scss/vendors/photoswipe/_photoswipe-default.scss,src/assets/scss/vendors/range-slider/_ion.modernskinRangeslider.scss,src/assets/scss/vendors/prism/_prism.scss,src/assets/scss/vendors/range-slider/_ion.rangeSlider.scss,src/assets/scss/vendors/rating/_mixins.scss,src/assets/scss/vendors/rating/rating-theme/_bars-horizontal.scss,src/assets/scss/vendors/rating/rating-theme/_bars-reversed.scss,src/assets/scss/vendors/rating/_examples.scss,src/assets/scss/vendors/rating/rating-theme/_bars-movie.scss,src/assets/scss/vendors/rating/rating-theme/_bars-pill.scss,src/assets/scss/vendors/rating/rating-theme/_bars-1to10.scss,src/assets/scss/vendors/rating/_rating-theme.scss,src/assets/scss/vendors/rating/_variables.scss,src/assets/scss/vendors/rating/_main.scss,src/assets/scss/vendors/rating/rating-theme/_fontawesome-stars.scss,src/assets/scss/vendors/rating/rating-theme/_mixins.scss,src/assets/scss/vendors/rating/rating-theme/_variables.scss,src/assets/scss/vendors/rating/rating-theme/_css-stars.scss,src/assets/scss/vendors/rating/rating-theme/_bootstrap-stars.scss,src/assets/scss/vendors/rating/rating-theme/_bars-square.scss,src/assets/scss/vendors/rating/rating-theme/_fontawesome-stars-o.scss,src/assets/scss/vendors/select2/_single.scss,src/assets/scss/vendors/select2/theme/classic/_single.scss,src/assets/scss/vendors/select2/_multiple.scss,src/assets/scss/vendors/select2/_dropdown.scss,src/assets/scss/vendors/select2/mixins/_gradients.scss,src/assets/scss/vendors/scrollbar/_simplebar.scss,src/assets/scss/vendors/select2/theme/classic/_defaults.scss,src/assets/scss/vendors/scrollable/_scrollable.scss,src/assets/scss/vendors/select2/theme/classic/_layout.scss,src/assets/scss/vendors/select2/theme/classic/_multiple.scss,src/assets/scss/vendors/select2/theme/default/_layout.scss,src/assets/scss/vendors/select2/theme/default/_single.scss,src/assets/scss/vendors/simple-mde/_elements.scss,src/assets/scss/vendors/slick/slick.scss,src/assets/scss/vendors/select2/theme/default/_multiple.scss,src/assets/scss/vendors/slick/slick-theme.scss,src/assets/scss/vendors/simple-mde/_simplemde.scss,src/assets/scss/vendors/summernote/_fonts.scss,src/assets/scss/vendors/summernote/_summernote-bs4.scss,src/assets/scss/vendors/sticky/_sticky.scss,src/assets/scss/vendors/summernote/_elements.scss
+[NX Daemon Server] - 2024-03-03T13:48:32.649Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:48:35.985Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.986Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.986Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.987Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.987Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.988Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.988Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.988Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.988Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.990Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.991Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.991Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.992Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.992Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.993Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.993Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.993Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.994Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.994Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.994Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.995Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.995Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.996Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.997Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.998Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.999Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:35.999Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.000Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.000Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.001Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.002Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.004Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.005Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.006Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.006Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.006Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.007Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.007Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.007Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.008Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.008Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.008Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.009Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.009Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.010Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.011Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.011Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.012Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.012Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.013Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.013Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.014Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.014Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.015Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.015Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.016Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.016Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.016Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.017Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.017Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:36.020Z - [WATCHER]: 13 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.025Z - [WATCHER]: 261 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.056Z - [WATCHER]: 6 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.058Z - [WATCHER]: 8 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.061Z - [WATCHER]: 11 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.069Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.072Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.076Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.088Z - [WATCHER]: 11 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.091Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.100Z - [WATCHER]: 9 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.103Z - [WATCHER]: 9 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.106Z - [WATCHER]: 11 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.109Z - [WATCHER]: 9 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.111Z - [WATCHER]: 10 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.117Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.119Z - [WATCHER]: 7 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.122Z - [WATCHER]: 11 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.125Z - [WATCHER]: 11 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.128Z - [WATCHER]: 11 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.133Z - [WATCHER]: 7 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.136Z - [WATCHER]: 6 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.138Z - [WATCHER]: 6 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.141Z - [WATCHER]: 8 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.144Z - [WATCHER]: 11 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.149Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.153Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.156Z - [WATCHER]: 10 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.160Z - [WATCHER]: 11 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.164Z - [WATCHER]: 6 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.167Z - [WATCHER]: 10 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.169Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.171Z - [WATCHER]: 5 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.172Z - [WATCHER]: 6 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.175Z - [WATCHER]: 8 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T13:48:36.177Z - Time taken for 'hash changed files from watcher' 3520.5152999162674ms
+[NX Daemon Server] - 2024-03-03T13:48:37.567Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:48:37.567Z - [REQUEST]: src/assets/scss/vendors/sweetalert2-master/_variables.scss,src/assets/scss/vendors/themify/_themify-icons.scss,src/assets/scss/vendors/svg-icon/_svg-icon.scss,src/assets/scss/vendors/themify/_extras.scss,src/assets/scss/vendors/sweetalert2-master/_toasts.scss,src/assets/scss/vendors/sweetalert2-master/_mixins.scss,src/assets/scss/vendors/sweetalert2-master/_animations.scss,src/assets/scss/vendors/themify/_variables.scss,src/assets/scss/vendors/themify/_path.scss,src/assets/scss/vendors/themify/_mixins.scss,src/assets/scss/vendors/time-picker/_timepicker.scss,src/assets/scss/vendors/themify/_icons.scss,src/assets/scss/vendors/themify/_core.scss,src/assets/scss/vendors/todo/_todo.scss,src/assets/fonts/feather/search.svg,src/assets/fonts/feather/clipboard.svg,src/assets/fonts/feather/phone-call.svg,src/assets/fonts/feather/align-left.svg,src/assets/fonts/feather/speaker.svg,src/assets/fonts/feather/toggle-right.svg,src/assets/fonts/feather/rss.svg,src/assets/fonts/feather/corner-left-down.svg,src/assets/fonts/feather/home.svg,src/assets/fonts/feather/user-plus.svg,src/assets/fonts/feather/truck.svg,src/assets/fonts/feather/phone-off.svg,src/assets/fonts/feather/minus-circle.svg,src/assets/fonts/feather/smartphone.svg,src/assets/fonts/feather/circle.svg,src/assets/fonts/feather/user-check.svg,src/assets/fonts/feather/info.svg,src/assets/fonts/feather/external-link.svg,src/assets/fonts/feather/sidebar.svg,src/assets/fonts/feather/play.svg,src/assets/fonts/feather/hard-drive.svg,src/assets/fonts/feather/shopping-cart.svg,src/assets/fonts/feather/cloud-lightning.svg,src/assets/fonts/feather/more-horizontal.svg,src/assets/fonts/feather/bookmark.svg,src/assets/fonts/feather/pause-circle.svg,src/assets/fonts/feather/arrow-right.svg,src/assets/fonts/feather/filter.svg,src/assets/fonts/feather/cloud-snow.svg,src/assets/fonts/feather/book-open.svg,src/assets/fonts/feather/shuffle.svg,src/assets/fonts/feather/git-branch.svg,src/assets/fonts/feather/thermometer.svg,src/assets/fonts/feather/stop-circle.svg,src/assets/fonts/feather/phone-forwarded.svg,src/assets/fonts/feather/mic-off.svg,src/assets/fonts/feather/chevrons-left.svg,src/assets/fonts/feather/activity.svg,src/assets/fonts/feather/menu.svg,src/assets/fonts/feather/arrow-up-circle.svg,src/assets/fonts/feather/arrow-down.svg,src/assets/fonts/feather/battery-charging.svg,src/assets/fonts/feather/arrow-up.svg,src/assets/fonts/feather/user-x.svg,src/assets/fonts/feather/arrow-up-right.svg,src/assets/fonts/feather/hash.svg,src/assets/fonts/feather/pause.svg,src/assets/fonts/feather/user-minus.svg,src/assets/fonts/feather/power.svg,src/assets/fonts/feather/log-in.svg,src/assets/fonts/feather/alert-circle.svg,src/assets/fonts/feather/refresh-cw.svg,src/assets/fonts/feather/battery.svg,src/assets/fonts/feather/globe.svg,src/assets/fonts/feather/copy.svg,src/assets/fonts/feather/radio.svg,src/assets/fonts/feather/archive.svg,src/assets/fonts/feather/corner-down-left.svg,src/assets/fonts/feather/git-merge.svg,src/assets/fonts/feather/grid.svg,src/assets/fonts/feather/facebook.svg,src/assets/fonts/feather/chevrons-down.svg,src/assets/fonts/feather/shopping-bag.svg,src/assets/fonts/feather/lock.svg,src/assets/fonts/feather/mic.svg,src/assets/fonts/feather/save.svg,src/assets/fonts/feather/linkedin.svg,src/assets/fonts/feather/tag.svg,src/assets/fonts/feather/share-2.svg,src/assets/fonts/feather/italic.svg,src/assets/fonts/feather/trending-down.svg,src/assets/fonts/feather/terminal.svg,src/assets/fonts/feather/log-out.svg,src/assets/fonts/feather/github.svg,src/assets/fonts/feather/twitter.svg,src/assets/fonts/feather/flag.svg,src/assets/fonts/feather/command.svg,src/assets/fonts/feather/download.svg,src/assets/fonts/feather/trending-up.svg,src/assets/fonts/feather/camera-off.svg,src/assets/fonts/feather/arrow-up-left.svg,src/assets/fonts/feather/align-right.svg,src/assets/fonts/feather/corner-up-right.svg,src/assets/fonts/feather/disc.svg,src/assets/fonts/feather/chevron-right.svg,src/assets/fonts/feather/list.svg,src/assets/fonts/feather/printer.svg,src/assets/fonts/feather/codepen.svg,src/assets/fonts/feather/minus-square.svg,src/assets/fonts/feather/skip-forward.svg,src/assets/fonts/feather/arrow-left.svg,src/assets/fonts/feather/download-cloud.svg,src/assets/fonts/feather/bar-chart-2.svg,src/assets/fonts/feather/trash-2.svg,src/assets/fonts/feather/cpu.svg,src/assets/fonts/feather/tablet.svg,src/assets/fonts/feather/music.svg,src/assets/fonts/feather/gift.svg,src/assets/fonts/feather/play-circle.svg,src/assets/fonts/feather/eye.svg,src/assets/fonts/feather/sunrise.svg,src/assets/fonts/feather/book.svg,src/assets/fonts/feather/message-circle.svg,src/assets/fonts/feather/bold.svg,src/assets/fonts/feather/inbox.svg,src/assets/fonts/feather/loader.svg,src/assets/fonts/feather/thumbs-down.svg,src/assets/fonts/feather/arrow-down-left.svg,src/assets/fonts/feather/plus-circle.svg,src/assets/fonts/feather/database.svg,src/assets/fonts/feather/slash.svg,src/assets/svg/landing-icons.svg,src/assets/fonts/feather/box.svg,src/assets/fonts/feather/share.svg,src/assets/scss/vendors/tour/_tour.scss,src/assets/fonts/feather/upload-cloud.svg,src/assets/fonts/feather/package.svg,src/assets/fonts/feather/paperclip.svg,src/assets/fonts/feather/percent.svg,src/assets/fonts/feather/cloud-rain.svg,src/assets/fonts/feather/send.svg,src/assets/fonts/feather/folder-minus.svg,src/assets/fonts/feather/maximize.svg,src/assets/fonts/feather/monitor.svg,src/assets/fonts/feather/file.svg,src/assets/fonts/feather/cast.svg,src/assets/fonts/feather/scissors.svg,src/assets/fonts/feather/voicemail.svg,src/assets/fonts/feather/help-circle.svg,src/assets/svg/icon-sprite.svg,src/assets/fonts/feather/briefcase.svg,src/assets/fonts/feather/link.svg,src/assets/fonts/feather/chevron-left.svg,src/assets/fonts/feather/edit.svg,src/assets/fonts/feather/sun.svg,src/assets/fonts/feather/star.svg,src/assets/fonts/feather/droplet.svg,src/assets/fonts/feather/chevron-down.svg,src/assets/fonts/feather/type.svg,src/assets/fonts/feather/plus-square.svg,src/assets/fonts/feather/life-buoy.svg,src/assets/fonts/feather/eye-off.svg,src/assets/fonts/feather/move.svg,src/assets/fonts/feather/bar-chart.svg,src/assets/fonts/feather/delete.svg,src/assets/fonts/feather/pie-chart.svg,src/assets/fonts/feather/bell.svg,src/assets/fonts/feather/slack.svg,src/assets/fonts/feather/tv.svg,src/assets/fonts/feather/folder.svg,src/assets/fonts/feather/bluetooth.svg,src/assets/fonts/feather/arrow-left-circle.svg,src/assets/fonts/feather/rewind.svg,src/assets/fonts/feather/folder-plus.svg,src/assets/fonts/feather/clock.svg,src/assets/fonts/feather/crosshair.svg,src/assets/fonts/feather/align-center.svg,src/assets/scss/vendors/whether-icon/_whether-icon.scss,src/assets/fonts/feather/moon.svg,src/assets/fonts/feather/file-minus.svg,src/assets/fonts/feather/rotate-cw.svg,src/assets/scss/vendors/tree/_tree-default.scss,src/assets/fonts/feather/anchor.svg,src/assets/fonts/feather/chevron-up.svg,src/assets/fonts/feather/corner-left-up.svg,src/assets/fonts/feather/cloud-drizzle.svg,src/assets/fonts/feather/navigation-2.svg,src/assets/fonts/feather/arrow-down-right.svg,src/assets/fonts/feather/server.svg,src/assets/fonts/feather/plus.svg,src/assets/fonts/feather/shield-off.svg,src/assets/fonts/feather/video-off.svg,src/assets/fonts/feather/trash.svg,src/assets/fonts/feather/more-vertical.svg,src/assets/fonts/feather/rotate-ccw.svg,src/assets/fonts/feather/camera.svg,src/assets/fonts/feather/unlock.svg,src/assets/fonts/feather/skip-back.svg,src/assets/fonts/feather/crop.svg,src/assets/fonts/feather/calendar.svg,src/assets/fonts/feather/corner-down-right.svg,src/assets/fonts/feather/upload.svg,src/assets/fonts/feather/at-sign.svg,src/assets/fonts/feather/phone.svg,src/assets/fonts/feather/minimize.svg,src/assets/fonts/feather/user.svg,src/assets/fonts/feather/heart.svg,src/assets/fonts/feather/cloud.svg,src/assets/fonts/feather/git-pull-request.svg,src/assets/fonts/feather/award.svg,src/assets/fonts/feather/triangle.svg,src/assets/fonts/feather/alert-triangle.svg,src/assets/fonts/feather/compass.svg,src/assets/fonts/feather/sliders.svg,src/assets/fonts/feather/message-square.svg,src/assets/fonts/feather/fast-forward.svg,src/assets/fonts/feather/instagram.svg,src/assets/fonts/feather/aperture.svg,src/assets/fonts/feather/phone-missed.svg,src/assets/fonts/feather/phone-incoming.svg,src/assets/fonts/feather/feather.svg,src/assets/fonts/feather/edit-2.svg,src/assets/fonts/feather/maximize-2.svg,src/assets/fonts/feather/repeat.svg,src/assets/fonts/feather/pocket.svg,src/assets/fonts/feather/corner-up-left.svg,src/assets/fonts/feather/dollar-sign.svg,src/assets/scss/vendors/vector-map/_vector-map.scss,src/assets/fonts/feather/sunset.svg,src/assets/fonts/feather/credit-card.svg,src/assets/fonts/feather/underline.svg,src/assets/fonts/feather/film.svg,src/assets/fonts/feather/map.svg,src/assets/fonts/feather/users.svg,src/assets/fonts/feather/square.svg,src/assets/fonts/feather/link-2.svg,src/assets/fonts/feather/refresh-ccw.svg,src/assets/video/auth-bg.mp4,src/assets/fonts/feather/align-justify.svg,src/assets/fonts/feather/image.svg,src/assets/fonts/feather/chevrons-right.svg,src/assets/fonts/feather/minus.svg,src/assets/fonts/feather/octagon.svg,src/assets/fonts/feather/minimize-2.svg,src/assets/fonts/feather/arrow-down-circle.svg,src/assets/fonts/feather/mail.svg,src/assets/fonts/feather/layout.svg,src/assets/fonts/feather/gitlab.svg,src/assets/fonts/feather/umbrella.svg,src/assets/fonts/feather/code.svg,src/assets/fonts/feather/layers.svg,src/assets/fonts/feather/cloud-off.svg,src/assets/fonts/feather/volume-2.svg,src/assets/fonts/feather/airplay.svg,src/assets/fonts/feather/chevrons-up.svg,src/assets/fonts/feather/video.svg,src/assets/fonts/feather/target.svg,src/assets/fonts/feather/navigation.svg,src/assets/fonts/feather/git-commit.svg,src/assets/fonts/feather/bell-off.svg,src/assets/fonts/feather/shield.svg,src/assets/fonts/feather/chrome.svg,src/assets/fonts/feather/headphones.svg,src/assets/fonts/feather/thumbs-up.svg,src/assets/fonts/feather/edit-3.svg,src/assets/fonts/feather/check-square.svg,src/assets/fonts/feather/phone-outgoing.svg,src/assets/fonts/feather/corner-right-up.svg,src/assets/fonts/feather/toggle-left.svg,src/assets/fonts/feather/alert-octagon.svg,src/assets/fonts/feather/file-plus.svg,src/assets/fonts/feather/map-pin.svg,src/assets/fonts/feather/check.svg,src/assets/fonts/feather/arrow-right-circle.svg,src/assets/fonts/feather/corner-right-down.svg,src/assets/fonts/feather/file-text.svg,src/assets/fonts/feather/settings.svg,src/assets/fonts/feather/check-circle.svg,src/assets/fonts/feather/volume-1.svg,src/assets/scss/vendors/tree/_tree.scss,src/assets/fonts/feather/wifi-off.svg,src/assets/fonts/feather/wind.svg,src/assets/fonts/feather/volume-x.svg,src/assets/fonts/feather/volume.svg,src/assets/fonts/feather/wifi.svg,src/assets/fonts/feather/watch.svg,src/assets/fonts/feather/zoom-in.svg,src/assets/fonts/feather/x.svg,src/assets/fonts/feather/youtube.svg,src/assets/fonts/feather/zap-off.svg,src/assets/fonts/feather/x-square.svg,src/assets/fonts/feather/x-circle.svg,src/assets/fonts/feather/zoom-out.svg,src/assets/fonts/feather/zap.svg,src/assets/fonts/flag-icon/ad.svg,src/assets/fonts/flag-icon/aq.svg,src/assets/fonts/flag-icon/am.svg,src/assets/fonts/flag-icon/ai.svg,src/assets/fonts/flag-icon/ao.svg,src/assets/fonts/flag-icon/ae.svg,src/assets/fonts/flag-icon/af.svg,src/assets/fonts/flag-icon/ag.svg,src/assets/fonts/flag-icon/al.svg,src/assets/fonts/flag-icon/as.svg,src/assets/fonts/flag-icon/ar.svg,src/assets/fonts/flag-icon/ba.svg,src/assets/fonts/flag-icon/bd.svg,src/assets/fonts/flag-icon/be.svg,src/assets/fonts/flag-icon/bb.svg,src/assets/fonts/flag-icon/at.svg,src/assets/fonts/flag-icon/aw.svg,src/assets/fonts/flag-icon/bf.svg,src/assets/fonts/flag-icon/az.svg,src/assets/fonts/flag-icon/au.svg,src/assets/fonts/flag-icon/ax.svg,src/assets/fonts/flag-icon/bh.svg,src/assets/fonts/flag-icon/bo.svg,src/assets/fonts/flag-icon/br.svg,src/assets/fonts/flag-icon/bg.svg,src/assets/fonts/flag-icon/bm.svg,src/assets/fonts/flag-icon/bj.svg,src/assets/fonts/flag-icon/bq.svg,src/assets/fonts/flag-icon/bn.svg,src/assets/fonts/flag-icon/bl.svg,src/assets/fonts/flag-icon/bi.svg,src/assets/fonts/flag-icon/ca.svg,src/assets/fonts/flag-icon/bw.svg,src/assets/fonts/flag-icon/bz.svg,src/assets/fonts/flag-icon/by.svg,src/assets/fonts/flag-icon/bs.svg,src/assets/fonts/flag-icon/bt.svg,src/assets/fonts/flag-icon/cd.svg,src/assets/fonts/flag-icon/cc.svg,src/assets/fonts/flag-icon/cf.svg,src/assets/fonts/flag-icon/bv.svg,src/assets/fonts/flag-icon/ch.svg,src/assets/fonts/flag-icon/cv.svg,src/assets/fonts/flag-icon/cu.svg,src/assets/fonts/flag-icon/cn.svg,src/assets/fonts/flag-icon/ci.svg,src/assets/fonts/flag-icon/cl.svg,src/assets/fonts/flag-icon/co.svg,src/assets/fonts/flag-icon/cr.svg,src/assets/fonts/flag-icon/cg.svg,src/assets/fonts/flag-icon/ck.svg,src/assets/fonts/flag-icon/cm.svg,src/assets/fonts/flag-icon/dm.svg,src/assets/fonts/flag-icon/dz.svg,src/assets/fonts/flag-icon/cy.svg,src/assets/fonts/flag-icon/cz.svg,src/assets/fonts/flag-icon/de.svg,src/assets/fonts/flag-icon/dk.svg,src/assets/fonts/flag-icon/do.svg,src/assets/fonts/flag-icon/cx.svg,src/assets/fonts/flag-icon/cw.svg,src/assets/fonts/flag-icon/dj.svg,src/assets/fonts/flag-icon/et.svg,src/assets/fonts/flag-icon/eu.svg,src/assets/fonts/flag-icon/ee.svg,src/assets/fonts/flag-icon/eh.svg,src/assets/fonts/flag-icon/ec.svg,src/assets/fonts/flag-icon/es.svg,src/assets/fonts/flag-icon/es-ct.svg,src/assets/fonts/flag-icon/eg.svg,src/assets/fonts/flag-icon/er.svg,src/assets/fonts/flag-icon/ga.svg,src/assets/fonts/flag-icon/fk.svg,src/assets/fonts/flag-icon/fm.svg,src/assets/fonts/flag-icon/fj.svg,src/assets/fonts/flag-icon/gb-eng.svg,src/assets/fonts/flag-icon/fo.svg,src/assets/fonts/flag-icon/gb-nir.svg,src/assets/fonts/flag-icon/fi.svg,src/assets/fonts/flag-icon/fr.svg,src/assets/fonts/flag-icon/gf.svg,src/assets/fonts/flag-icon/gm.svg,src/assets/fonts/flag-icon/gl.svg,src/assets/fonts/flag-icon/ge.svg,src/assets/fonts/flag-icon/gb-sct.svg,src/assets/fonts/flag-icon/gg.svg,src/assets/fonts/flag-icon/gh.svg,src/assets/fonts/flag-icon/gb.svg,src/assets/fonts/flag-icon/gi.svg,src/assets/fonts/flag-icon/gb-wls.svg,src/assets/fonts/flag-icon/gd.svg,src/assets/fonts/flag-icon/gr.svg,src/assets/fonts/flag-icon/gu.svg,src/assets/fonts/flag-icon/gy.svg,src/assets/fonts/flag-icon/gw.svg,src/assets/fonts/flag-icon/gn.svg,src/assets/fonts/flag-icon/gp.svg,src/assets/fonts/flag-icon/gs.svg,src/assets/fonts/flag-icon/gt.svg,src/assets/fonts/flag-icon/gq.svg,src/assets/fonts/flag-icon/hm.svg,src/assets/fonts/flag-icon/hk.svg,src/assets/fonts/flag-icon/hu.svg,src/assets/fonts/flag-icon/im.svg,src/assets/fonts/flag-icon/hr.svg,src/assets/fonts/flag-icon/id.svg,src/assets/fonts/flag-icon/ie.svg,src/assets/fonts/flag-icon/hn.svg,src/assets/fonts/flag-icon/il.svg,src/assets/fonts/flag-icon/ht.svg,src/assets/fonts/flag-icon/jm.svg,src/assets/fonts/flag-icon/io.svg,src/assets/fonts/flag-icon/is.svg,src/assets/fonts/flag-icon/iq.svg,src/assets/fonts/flag-icon/it.svg,src/assets/fonts/flag-icon/ir.svg,src/assets/fonts/flag-icon/in.svg,src/assets/fonts/flag-icon/jo.svg,src/assets/fonts/flag-icon/jp.svg,src/assets/fonts/flag-icon/je.svg,src/assets/fonts/flag-icon/kn.svg,src/assets/fonts/flag-icon/kh.svg,src/assets/fonts/flag-icon/ki.svg,src/assets/fonts/flag-icon/km.svg,src/assets/fonts/flag-icon/ke.svg,src/assets/fonts/flag-icon/kg.svg,src/assets/fonts/flag-icon/kp.svg,src/assets/fonts/flag-icon/kr.svg,src/assets/fonts/flag-icon/lb.svg,src/assets/fonts/flag-icon/la.svg,src/assets/fonts/flag-icon/kz.svg,src/assets/fonts/flag-icon/ky.svg,src/assets/fonts/flag-icon/lc.svg,src/assets/fonts/flag-icon/li.svg,src/assets/fonts/flag-icon/kw.svg,src/assets/fonts/flag-icon/lk.svg,src/assets/fonts/flag-icon/lr.svg,src/assets/fonts/flag-icon/ls.svg,src/assets/fonts/flag-icon/ma.svg,src/assets/fonts/flag-icon/lv.svg,src/assets/fonts/flag-icon/mf.svg,src/assets/fonts/flag-icon/mg.svg,src/assets/fonts/flag-icon/lt.svg,src/assets/fonts/flag-icon/mh.svg,src/assets/fonts/flag-icon/lu.svg,src/assets/fonts/flag-icon/md.svg,src/assets/fonts/flag-icon/me.svg,src/assets/fonts/flag-icon/ly.svg,src/assets/fonts/flag-icon/mc.svg,src/assets/fonts/flag-icon/mq.svg,src/assets/fonts/flag-icon/mr.svg,src/assets/fonts/flag-icon/mu.svg,src/assets/fonts/flag-icon/mk.svg,src/assets/fonts/flag-icon/mm.svg,src/assets/fonts/flag-icon/mp.svg,src/assets/fonts/flag-icon/ms.svg,src/assets/fonts/flag-icon/mt.svg,src/assets/fonts/flag-icon/ml.svg,src/assets/fonts/flag-icon/mo.svg,src/assets/fonts/flag-icon/mn.svg,src/assets/fonts/flag-icon/mv.svg,src/assets/fonts/flag-icon/nc.svg,src/assets/fonts/flag-icon/mx.svg,src/assets/fonts/flag-icon/mw.svg,src/assets/fonts/flag-icon/my.svg,src/assets/fonts/flag-icon/mz.svg,src/assets/fonts/flag-icon/na.svg,src/assets/fonts/flag-icon/ne.svg,src/assets/fonts/flag-icon/ni.svg,src/assets/fonts/flag-icon/ng.svg,src/assets/fonts/flag-icon/nl.svg,src/assets/fonts/flag-icon/no.svg,src/assets/fonts/flag-icon/nf.svg,src/assets/fonts/flag-icon/pa.svg,src/assets/fonts/flag-icon/np.svg,src/assets/fonts/flag-icon/om.svg,src/assets/fonts/flag-icon/nr.svg,src/assets/fonts/flag-icon/nu.svg,src/assets/fonts/flag-icon/nz.svg,src/assets/fonts/flag-icon/pf.svg,src/assets/fonts/flag-icon/ph.svg,src/assets/fonts/flag-icon/pg.svg,src/assets/fonts/flag-icon/pm.svg,src/assets/fonts/flag-icon/pn.svg,src/assets/fonts/flag-icon/pk.svg,src/assets/fonts/flag-icon/pe.svg,src/assets/fonts/flag-icon/pl.svg,src/assets/fonts/flag-icon/py.svg,src/assets/fonts/flag-icon/pt.svg,src/assets/fonts/flag-icon/re.svg,src/assets/fonts/flag-icon/pr.svg,src/assets/fonts/flag-icon/qa.svg,src/assets/fonts/flag-icon/ru.svg,src/assets/fonts/flag-icon/pw.svg,src/assets/fonts/flag-icon/ro.svg,src/assets/fonts/flag-icon/rw.svg,src/assets/fonts/flag-icon/ps.svg,src/assets/fonts/flag-icon/rs.svg,src/assets/fonts/flag-icon/sj.svg,src/assets/fonts/flag-icon/sd.svg,src/assets/fonts/flag-icon/sb.svg,src/assets/fonts/flag-icon/si.svg,src/assets/fonts/flag-icon/sh.svg,src/assets/fonts/flag-icon/sk.svg,src/assets/fonts/flag-icon/sa.svg,src/assets/fonts/flag-icon/sc.svg,src/assets/fonts/flag-icon/se.svg,src/assets/fonts/flag-icon/sg.svg,src/assets/fonts/flag-icon/sy.svg,src/assets/fonts/flag-icon/ss.svg,src/assets/fonts/flag-icon/sn.svg,src/assets/fonts/flag-icon/so.svg,src/assets/fonts/flag-icon/sl.svg,src/assets/fonts/flag-icon/sm.svg,src/assets/fonts/flag-icon/sv.svg,src/assets/fonts/flag-icon/st.svg,src/assets/fonts/flag-icon/sx.svg,src/assets/fonts/flag-icon/sr.svg,src/assets/fonts/flag-icon/th.svg,src/assets/fonts/flag-icon/tl.svg,src/assets/fonts/flag-icon/tf.svg,src/assets/fonts/flag-icon/tc.svg,src/assets/fonts/flag-icon/sz.svg,src/assets/fonts/flag-icon/tm.svg,src/assets/fonts/flag-icon/td.svg,src/assets/fonts/flag-icon/tg.svg,src/assets/fonts/flag-icon/tk.svg,src/assets/fonts/flag-icon/tj.svg,src/assets/fonts/flag-icon/to.svg,src/assets/fonts/flag-icon/tt.svg,src/assets/fonts/flag-icon/ua.svg,src/assets/fonts/flag-icon/tv.svg,src/assets/fonts/flag-icon/ug.svg,src/assets/fonts/flag-icon/tw.svg,src/assets/fonts/flag-icon/tn.svg,src/assets/fonts/flag-icon/tz.svg,src/assets/fonts/flag-icon/un.svg,src/assets/fonts/flag-icon/um.svg,src/assets/fonts/flag-icon/tr.svg,src/assets/fonts/flag-icon/ve.svg,src/assets/fonts/flag-icon/us.svg,src/assets/fonts/flag-icon/uz.svg,src/assets/fonts/flag-icon/va.svg,src/assets/fonts/flag-icon/vc.svg,src/assets/fonts/flag-icon/uy.svg,src/assets/fonts/flag-icon/wf.svg,src/assets/fonts/flag-icon/za.svg,src/assets/fonts/flag-icon/vg.svg,src/assets/fonts/flag-icon/zm.svg,src/assets/fonts/flag-icon/yt.svg,src/assets/fonts/flag-icon/vu.svg,src/assets/fonts/flag-icon/vi.svg,src/assets/fonts/flag-icon/vn.svg,src/assets/fonts/flag-icon/ye.svg,src/assets/fonts/flag-icon/ws.svg,src/assets/fonts/flag-icon/zw.svg,src/assets/fonts/font-awesome/fontawesome-webfont.svg,src/assets/fonts/font-awesome/fontawesome-webfont.ttf,src/assets/fonts/font-awesome/fontawesome-webfont.eot,src/assets/fonts/ico/icofont.svg,src/assets/fonts/font-awesome/FontAwesome.otf,src/assets/fonts/font-awesome/fontawesome-webfont.woff,src/assets/fonts/ico/icofont.eot,src/assets/fonts/font-awesome/fontawesome-webfont.woff2,src/assets/fonts/slick/slick.woff,src/assets/fonts/slick/slick.ttf,src/assets/fonts/ico/icofont.woff,src/assets/fonts/ico/icofont.ttf,src/assets/fonts/slick/slick.eot,src/assets/fonts/slick/slick.svg,src/assets/i18n/en.json,src/assets/fonts/themify/themify.svg,src/assets/fonts/themify/themify.ttf,src/assets/i18n/pt.json,src/assets/fonts/themify/themify.eot,src/assets/i18n/es.json,src/assets/i18n/fr.json,src/assets/fonts/themify/themify.woff
+[NX Daemon Server] - 2024-03-03T13:48:37.567Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:48:39.209Z - Time taken for 'hash changed files from watcher' 1389.256500005722ms
+[NX Daemon Server] - 2024-03-03T13:48:43.178Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:48:43.181Z - [WATCHER]: src/styles.scss was modified
+[NX Daemon Server] - 2024-03-03T13:48:43.409Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:48:43.409Z - [REQUEST]: src/styles.scss
+[NX Daemon Server] - 2024-03-03T13:48:43.409Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:48:45.211Z - Time taken for 'hash changed files from watcher' 12.812600016593933ms
+[NX Daemon Server] - 2024-03-03T13:50:03.758Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:50:03.761Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T13:50:04.185Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:50:04.185Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T13:50:04.185Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:50:06.465Z - Time taken for 'hash changed files from watcher' 7.657299995422363ms
+[NX Daemon Server] - 2024-03-03T13:52:23.213Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:52:23.220Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-03-03T13:52:24.039Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:52:24.039Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-03-03T13:52:24.039Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:52:25.808Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-03T13:52:25.809Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-03-03T13:52:25.813Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:52:25.817Z - Time taken for 'hash changed files from watcher' 5.879400014877319ms
+[NX Daemon Server] - 2024-03-03T13:52:25.817Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-03T13:52:25.819Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T13:52:25.820Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T13:52:25.823Z - [WATCHER]: Stopping the watcher for D:\dastgeertech-official\dastgeertech (sources)
+[NX Daemon Server] - 2024-03-03T13:52:25.823Z - Time taken for 'total for creating and serializing project graph' 0.5577999353408813ms
+[NX Daemon Server] - 2024-03-03T13:52:25.823Z - [WATCHER]: Stopping the watcher for D:\dastgeertech-official\dastgeertech (outputs)
+[NX Daemon Server] - 2024-03-03T13:52:25.824Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-03-03T13:52:28.175Z - Started listening on: \\.\pipe\nx\C:\Users\raida\AppData\Local\Temp\e2dbc25431dd78c3bbfb\d.sock
+[NX Daemon Server] - 2024-03-03T13:52:28.187Z - [WATCHER]: Subscribed to changes within: d:\dastgeertech-official\dastgeertech (native)
+[NX Daemon Server] - 2024-03-03T13:52:28.189Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T13:52:28.190Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-03T13:52:28.191Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T13:52:28.194Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T13:52:28.286Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:52:28.286Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:52:28.286Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:52:30.535Z - Time taken for 'hash changed files from watcher' 90.68519997596741ms
+[NX Daemon Server] - 2024-03-03T13:52:33.851Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T13:52:33.852Z - Time taken for 'total for creating and serializing project graph' 5657.238200068474ms
+[NX Daemon Server] - 2024-03-03T13:52:33.852Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T13:52:33.852Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 5657. Response time: 1.
+[NX Daemon Server] - 2024-03-03T13:52:33.862Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-03T13:52:33.863Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-03T13:52:33.863Z - Handled REQUEST_FILE_DATA. Handling time: 8. Response time: 1.
+[NX Daemon Server] - 2024-03-03T13:52:33.869Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T13:52:45.389Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T13:52:45.391Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:52:45.499Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:52:45.499Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T13:52:45.499Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:52:47.491Z - Time taken for 'hash changed files from watcher' 3.742400050163269ms
+[NX Daemon Server] - 2024-03-03T13:56:26.963Z - [WATCHER]: src/styles.scss was modified
+[NX Daemon Server] - 2024-03-03T13:56:26.964Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:56:27.185Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:56:27.185Z - [REQUEST]: src/styles.scss
+[NX Daemon Server] - 2024-03-03T13:56:27.185Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:56:29.902Z - Time taken for 'hash changed files from watcher' 9.067899942398071ms
+[NX Daemon Server] - 2024-03-03T13:57:30.313Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T13:57:30.314Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:57:30.721Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:57:30.722Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T13:57:30.722Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:57:33.951Z - Time taken for 'hash changed files from watcher' 5.955700039863586ms
+[NX Daemon Server] - 2024-03-03T13:57:38.631Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T13:57:38.634Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T13:57:39.446Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T13:57:39.446Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T13:57:39.446Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T13:57:41.444Z - Time taken for 'hash changed files from watcher' 4.353399991989136ms
+[NX Daemon Server] - 2024-03-03T14:21:26.015Z - [WATCHER]: src/assets/scss/vendors/themify/_path.scss was modified
+[NX Daemon Server] - 2024-03-03T14:21:26.017Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T14:21:27.633Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T14:21:27.633Z - [REQUEST]: src/assets/scss/vendors/themify/_path.scss
+[NX Daemon Server] - 2024-03-03T14:21:27.634Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T14:21:29.827Z - Time taken for 'hash changed files from watcher' 4.747900009155273ms
+[NX Daemon Server] - 2024-03-03T14:24:24.122Z - [WATCHER]: nx.json was modified
+[NX Daemon Server] - 2024-03-03T14:24:24.124Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T14:24:25.133Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T14:24:25.138Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T14:24:25.139Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T14:24:25.143Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T14:24:25.177Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T14:24:25.177Z - [REQUEST]: nx.json
+[NX Daemon Server] - 2024-03-03T14:24:25.178Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T14:24:27.518Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T14:24:27.520Z - Time taken for 'total for creating and serializing project graph' 2374.396600008011ms
+[NX Daemon Server] - 2024-03-03T14:24:27.522Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T14:24:27.522Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2374. Response time: 5.
+[NX Daemon Server] - 2024-03-03T14:24:27.574Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-03T14:24:27.576Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-03T14:24:27.576Z - Handled REQUEST_FILE_DATA. Handling time: 48. Response time: 2.
+[NX Daemon Server] - 2024-03-03T14:24:27.588Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T14:24:31.647Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T14:24:31.651Z - [WATCHER]: src/index.html was modified
+[NX Daemon Server] - 2024-03-03T14:24:31.763Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T14:24:31.764Z - [REQUEST]: src/index.html
+[NX Daemon Server] - 2024-03-03T14:24:31.764Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T14:24:33.263Z - Time taken for 'hash changed files from watcher' 7.511399984359741ms
+[NX Daemon Server] - 2024-03-03T14:24:36.305Z - [WATCHER]: src/styles.scss was modified
+[NX Daemon Server] - 2024-03-03T14:24:36.306Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T14:24:36.522Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T14:24:36.522Z - [REQUEST]: src/styles.scss
+[NX Daemon Server] - 2024-03-03T14:24:36.522Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T14:24:38.745Z - Time taken for 'hash changed files from watcher' 5.421499967575073ms
+[NX Daemon Server] - 2024-03-03T15:35:50.078Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:35:50.100Z - [WATCHER]: package-lock.json was modified
+[NX Daemon Server] - 2024-03-03T15:35:50.140Z - [WATCHER]: package-lock.json was modified
+[NX Daemon Server] - 2024-03-03T15:35:50.141Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:35:50.517Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:35:50.517Z - [REQUEST]: package-lock.json
+[NX Daemon Server] - 2024-03-03T15:35:50.517Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:35:54.588Z - Time taken for 'hash changed files from watcher' 6.1585999727249146ms
+[NX Daemon Server] - 2024-03-03T15:36:16.805Z - [WATCHER]: src/styles.scss was modified
+[NX Daemon Server] - 2024-03-03T15:36:16.806Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:36:17.619Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:36:17.619Z - [REQUEST]: src/styles.scss
+[NX Daemon Server] - 2024-03-03T15:36:17.619Z - [REQUEST]: 
+(node:23280) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added to [process]. Use emitter.setMaxListeners() to increase limit
+(Use `Code --trace-warnings ...` to show where the warning was created)
+[NX Daemon Server] - 2024-03-03T15:36:20.501Z - Time taken for 'hash changed files from watcher' 6.5975000858306885ms
+[NX Daemon Server] - 2024-03-03T15:37:33.956Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T15:37:33.961Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:37:35.573Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:37:35.573Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T15:37:35.573Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:37:40.119Z - [WATCHER]: src/styles.scss was modified
+[NX Daemon Server] - 2024-03-03T15:37:40.120Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:37:40.120Z - Time taken for 'hash changed files from watcher' 6.29259991645813ms
+[NX Daemon Server] - 2024-03-03T15:37:43.328Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:37:43.328Z - [REQUEST]: src/styles.scss
+[NX Daemon Server] - 2024-03-03T15:37:43.328Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:37:47.051Z - Time taken for 'hash changed files from watcher' 9.130900025367737ms
+[NX Daemon Server] - 2024-03-03T15:38:13.113Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T15:38:13.113Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:38:19.533Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:38:19.533Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T15:38:19.533Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:38:22.737Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T15:38:22.738Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:38:22.738Z - Time taken for 'hash changed files from watcher' 5.48989999294281ms
+[NX Daemon Server] - 2024-03-03T15:38:29.149Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:38:29.150Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T15:38:29.150Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:38:31.437Z - Time taken for 'hash changed files from watcher' 9.14869999885559ms
+[NX Daemon Server] - 2024-03-03T15:38:41.673Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:38:41.677Z - [WATCHER]: src/assets/scss/vendors/themify/_variables.scss was modified
+[NX Daemon Server] - 2024-03-03T15:38:47.969Z - [WATCHER]: src/styles.scss was modified
+[NX Daemon Server] - 2024-03-03T15:38:47.970Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:38:48.086Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:38:48.086Z - [REQUEST]: src/assets/scss/vendors/themify/_variables.scss,src/styles.scss
+[NX Daemon Server] - 2024-03-03T15:38:48.086Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:38:51.787Z - Time taken for 'hash changed files from watcher' 5.710700035095215ms
+[NX Daemon Server] - 2024-03-03T15:40:06.801Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T15:40:06.802Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:40:13.208Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:40:13.208Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T15:40:13.208Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:40:16.096Z - Time taken for 'hash changed files from watcher' 5.32860004901886ms
+[NX Daemon Server] - 2024-03-03T15:40:49.356Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:40:49.363Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T15:40:55.793Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:40:55.794Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T15:40:55.794Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:40:59.175Z - Time taken for 'hash changed files from watcher' 14.320600032806396ms
+[NX Daemon Server] - 2024-03-03T15:41:27.321Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:41:27.346Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T15:41:33.754Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:41:33.754Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T15:41:33.754Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:41:37.001Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:41:37.003Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T15:41:37.004Z - Time taken for 'hash changed files from watcher' 4.410799980163574ms
+[NX Daemon Server] - 2024-03-03T15:41:43.411Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:41:43.411Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T15:41:43.411Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:41:47.283Z - Time taken for 'hash changed files from watcher' 6.982900023460388ms
+[NX Daemon Server] - 2024-03-03T15:42:02.479Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:42:02.484Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T15:42:08.907Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:42:08.908Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T15:42:08.909Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:42:12.885Z - Time taken for 'hash changed files from watcher' 15.161700010299683ms
+[NX Daemon Server] - 2024-03-03T15:42:26.910Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T15:42:26.911Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:42:33.323Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:42:33.323Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T15:42:33.323Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:42:36.242Z - Time taken for 'hash changed files from watcher' 9.720899939537048ms
+[NX Daemon Server] - 2024-03-03T15:42:41.564Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:42:41.570Z - [WATCHER]: src/assets/scss/app.scss was modified
+[NX Daemon Server] - 2024-03-03T15:42:47.980Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:42:47.980Z - [REQUEST]: src/assets/scss/app.scss
+[NX Daemon Server] - 2024-03-03T15:42:47.980Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:42:50.742Z - Time taken for 'hash changed files from watcher' 5.855000019073486ms
+[NX Daemon Server] - 2024-03-03T15:43:02.605Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T15:43:02.608Z - [WATCHER]: nx.json was modified
+[NX Daemon Server] - 2024-03-03T15:43:03.638Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T15:43:03.650Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T15:43:03.651Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T15:43:03.658Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T15:43:03.719Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T15:43:03.719Z - [REQUEST]: nx.json
+[NX Daemon Server] - 2024-03-03T15:43:03.719Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T15:43:09.410Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T15:43:09.411Z - Time taken for 'total for creating and serializing project graph' 5751.32959997654ms
+[NX Daemon Server] - 2024-03-03T15:43:09.413Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T15:43:09.413Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 5751. Response time: 4.
+[NX Daemon Server] - 2024-03-03T15:43:09.421Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-03T15:43:09.422Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-03T15:43:09.422Z - Handled REQUEST_FILE_DATA. Handling time: 6. Response time: 1.
+[NX Daemon Server] - 2024-03-03T15:43:09.430Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T16:10:06.551Z - [WATCHER]: src/app/layout/main-layout/main-layout.component.html was modified
+[NX Daemon Server] - 2024-03-03T16:10:06.551Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T16:10:06.659Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T16:10:06.659Z - [REQUEST]: src/app/layout/main-layout/main-layout.component.html
+[NX Daemon Server] - 2024-03-03T16:10:06.659Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T16:10:07.980Z - Time taken for 'hash changed files from watcher' 1.8564000129699707ms
+[NX Daemon Server] - 2024-03-03T17:27:28.396Z - [WATCHER]: DastgeerOfficial/README.md was created or restored
+[NX Daemon Server] - 2024-03-03T17:27:28.397Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T17:27:28.507Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T17:27:28.507Z - [REQUEST]: DastgeerOfficial/README.md
+[NX Daemon Server] - 2024-03-03T17:27:28.507Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T17:27:39.357Z - Time taken for 'hash changed files from watcher' 5.793499946594238ms
+[NX Daemon Server] - 2024-03-03T17:41:25.936Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T17:41:26.002Z - [WATCHER]: 0 file(s) created or restored, 0 file(s) modified, 195 file(s) deleted
+[NX Daemon Server] - 2024-03-03T17:41:26.003Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T17:41:26.004Z - [WATCHER]: Stopping the watcher for d:\dastgeertech-official\dastgeertech (sources)
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+[NX Daemon Server] - 2024-03-03T17:41:26.005Z - [WATCHER]: Stopping the watcher for d:\dastgeertech-official\dastgeertech (sources)
+[NX Daemon Server] - 2024-03-03T17:41:26.005Z - [WATCHER]: Stopping the watcher for d:\dastgeertech-official\dastgeertech (outputs)
+[NX Daemon Server] - 2024-03-03T17:41:26.005Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
